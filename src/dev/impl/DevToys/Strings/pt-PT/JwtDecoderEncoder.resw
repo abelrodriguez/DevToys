@@ -118,49 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Ferramenta descodificadora JWT</value>
+    <value>JWT Decoder tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Configuração</value>
+    <value>Configuration</value>
   </data>
   <data name="ConversionDescription" xml:space="preserve">
-    <value>Selecione a ação que pretende utilizar</value>
+    <value>Select which action you want to use</value>
   </data>
   <data name="ConversionTitle" xml:space="preserve">
-    <value>Ação</value>
+    <value>Action</value>
   </data>
   <data name="Decode" xml:space="preserve">
-    <value>Descodificar</value>
+    <value>Decode</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Descodificador JWT</value>
+    <value>JWT Decoder</value>
   </data>
   <data name="Encode" xml:space="preserve">
-    <value>Codificar</value>
+    <value>Encode</value>
   </data>
   <data name="EncodingDescription" xml:space="preserve">
-    <value>Selecione o algoritmo de codificação que pretende utilizar</value>
+    <value>Select which encoding algorithm you want to use</value>
   </data>
   <data name="EncodingTitle" xml:space="preserve">
-    <value>Codificação</value>
+    <value>Encoding</value>
   </data>
   <data name="HeaderLabel" xml:space="preserve">
-    <value>Cabeçalho</value>
+    <value>Header</value>
   </data>
   <data name="JwtTokenLabel" xml:space="preserve">
-    <value>Token Jwt</value>
+    <value>Jwt Token</value>
   </data>
   <data name="PayloadLabel" xml:space="preserve">
-    <value>Carga útil</value>
+    <value>Payload</value>
   </data>
   <data name="SecurityLabel" xml:space="preserve">
-    <value>Segurança</value>
+    <value>Security</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Descodificar um cabeçalho JWT, carga útil e assinatura</value>
+    <value>Decode a JWT header, payload and signature</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Descodificador JWT</value>
+    <value>JWT Decoder</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
