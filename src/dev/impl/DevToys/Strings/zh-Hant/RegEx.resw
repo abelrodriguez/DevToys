@@ -118,70 +118,70 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>正規表示式測試工具</value>
+    <value>Regular expression tester tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>設定</value>
+    <value>Configuration</value>
   </data>
   <data name="CultureInvariant" xml:space="preserve">
-    <value>忽略文化特性</value>
+    <value>Culture Invariant</value>
   </data>
   <data name="CultureInvariantDescription" xml:space="preserve">
-    <value>忽略語言中的文化差異。</value>
+    <value>Specifies that cultural differences in language is ignored.</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Regex 測試工具</value>
+    <value>Regex Tester</value>
   </data>
   <data name="EcmaScript" xml:space="preserve">
-    <value>ECMAScript</value>
+    <value>ECMA Script</value>
   </data>
   <data name="EcmaScriptDescription" xml:space="preserve">
-    <value>為表示式啟用符合 ECMAScript 的行為。僅能與忽略文化特性、忽略大小寫，及多行選項同時使用。</value>
+    <value>Enables ECMAScript-compliant behavior for the expression. This value can be used only in conjunction with the Culture Invariant, Ignore Case and Multiline options.</value>
   </data>
   <data name="IgnoreCase" xml:space="preserve">
-    <value>忽略大小寫</value>
+    <value>Ignore Case</value>
   </data>
   <data name="IgnoreCaseDescription" xml:space="preserve">
-    <value>排除大小寫差異。</value>
+    <value>Specifies case-insensitive matching.</value>
   </data>
   <data name="IgnoreWhitespace" xml:space="preserve">
-    <value>忽略空白</value>
+    <value>Ignore Whitespace</value>
   </data>
   <data name="IgnoreWhitespaceDescription" xml:space="preserve">
-    <value>從模式中排除未逸出的空白字元並啟用以 # 標記的註解。然而此並不會影響或排除在字元類別、數量詞或標記正規表示式開頭的權杖中的空白字元。</value>
+    <value>Eliminates unescaped white space from the pattern and enables comments marked with #. However, this value does not affect or eliminate white space in character classes, numeric quantifiers, or tokens that mark the beginning of individual regular expression language elements.</value>
   </data>
   <data name="Multiline" xml:space="preserve">
-    <value>多行</value>
+    <value>Multiline</value>
   </data>
   <data name="MultilineDescription" xml:space="preserve">
-    <value>修改 ^ 和 $ 的功能，以符合任何行的開頭及結尾。而非僅符合整個字串的開頭及結尾。</value>
+    <value>Changes the meaning of ^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string.</value>
   </data>
   <data name="Options" xml:space="preserve">
-    <value>選項</value>
+    <value>Options</value>
   </data>
   <data name="RegularExpression" xml:space="preserve">
-    <value>正規表示式</value>
+    <value>Regular expression</value>
   </data>
   <data name="RightToLeft" xml:space="preserve">
-    <value>右至左</value>
+    <value>Right To Left</value>
   </data>
   <data name="RightToLeftDescription" xml:space="preserve">
-    <value>指定由右至左搜尋，而非由左至右。</value>
+    <value>Specifies that the search will be from right to left instead of from left to right.</value>
   </data>
   <data name="Singleline" xml:space="preserve">
-    <value>單行</value>
+    <value>Singleline</value>
   </data>
   <data name="SinglelineDescription" xml:space="preserve">
-    <value>修改 . 的功能，以符合所有字元 (而非除了 \n 以外的所有字元)。</value>
+    <value>Changes the meaning of the dot (.) so it matches every character (instead of every character except \n).</value>
   </data>
   <data name="Text" xml:space="preserve">
-    <value>文字</value>
+    <value>Text</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>驗證並測試正規表示式</value>
+    <value>Validate and test regular expressions</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Regex 測試工具</value>
+    <value>Regex Tester</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value>Regular expression</value>
