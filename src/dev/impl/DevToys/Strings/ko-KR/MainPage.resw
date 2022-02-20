@@ -118,47 +118,47 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="EnterCompactOverlayTooltip" xml:space="preserve">
-    <value>항상 위로 (Ctrl+Up)</value>
+    <value>Keep on top (Ctrl+Up)</value>
   </data>
   <data name="ExitCompactOverlayTooltip" xml:space="preserve">
-    <value>전체 보기로 돌아가기 (Ctrl+Down)</value>
+    <value>Back to full view (Ctrl+Down)</value>
   </data>
   <data name="NotificationRateAppActionableActionText" xml:space="preserve">
-    <value>지금 도구를 평가해 주세요...</value>
+    <value>rate us now...</value>
   </data>
   <data name="NotificationRateAppMessage" xml:space="preserve">
-    <value>DevToys 사용에 만족하시나요? 좋은 평점 부탁드립니다!</value>
+    <value>Enjoying DevToys? Please consider rating us!</value>
   </data>
   <data name="NotificationRateAppTitle" xml:space="preserve">
-    <value>안녕...하세요! 😅</value>
+    <value>Um... hi! 😅</value>
   </data>
   <data name="NotificationReleaseNoteActionableActionText" xml:space="preserve">
-    <value>더 읽기...</value>
+    <value>read more...</value>
   </data>
   <data name="NotificationReleaseNoteTitle" xml:space="preserve">
-    <value>업데이트 완료! {0} 버전의 새로운 점은? 🚀</value>
+    <value>We just updated! What's new in {0}? 🚀</value>
     <comment>{0} is the current app version</comment>
   </data>
   <data name="NotificationUpdateAvailableActionableActionText" xml:space="preserve">
-    <value>지금 업데이트...</value>
+    <value>update now...</value>
   </data>
   <data name="NotificationUpdateAvailableTitle" xml:space="preserve">
-    <value>새 업데이트가 도착했습니다! 🚀</value>
+    <value>An update is available! 🚀</value>
   </data>
   <data name="OpenInNewWindow" xml:space="preserve">
-    <value>새 창으로 열기</value>
+    <value>Open in a new window</value>
   </data>
   <data name="PinToolToStart" xml:space="preserve">
-    <value>도구를 찍어 시작합니다.</value>
+    <value>Pin tool to Start</value>
   </data>
   <data name="PinToolToStartProblem" xml:space="preserve">
-    <value>도구를 찍어 시작할 수 없습니다. 로그를 통해 자세한 내용을 보실 수 있습니다.</value>
+    <value>Unable to pin the tool to start. For more details, please check the log.</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>도구명을 입력하여 검색...</value>
+    <value>Type to search for tools...</value>
   </data>
   <data name="SearchNoResultsFound" xml:space="preserve">
-    <value>검색한 도구가 없습니다.</value>
+    <value>No results found</value>
   </data>
   <data name="WindowTitle" xml:space="preserve">
     <value>DevToys</value>
