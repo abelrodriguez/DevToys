@@ -118,43 +118,43 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>假文產生工具</value>
+    <value>Lorem Ipsum Generator tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>設定</value>
+    <value>Configuration</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>產生預留假文</value>
+    <value>Generate Lorem Ipsum placeholder text</value>
   </data>
   <data name="LengthDescription" xml:space="preserve">
-    <value>要產生的單字、句子、或段落數</value>
+    <value>Number of words, sentences or paragraphs to generate</value>
   </data>
   <data name="LengthTitle" xml:space="preserve">
-    <value>長度</value>
+    <value>Length</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>假文</value>
+    <value>Lorem Ipsum</value>
   </data>
   <data name="Output" xml:space="preserve">
-    <value>輸出</value>
+    <value>Output</value>
   </data>
   <data name="ParagraphsType" xml:space="preserve">
-    <value>段落</value>
+    <value>Paragraphs</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>假文產生器</value>
+    <value>Lorem Ipsum Generator</value>
   </data>
   <data name="SentencesType" xml:space="preserve">
-    <value>句子</value>
+    <value>Sentences</value>
   </data>
   <data name="TypeDescription" xml:space="preserve">
-    <value>產生假文單字、句子、或段落</value>
+    <value>Generate words, sentences or paragraphs of Lorem Ipsum</value>
   </data>
   <data name="TypeTitle" xml:space="preserve">
-    <value>類型</value>
+    <value>Type</value>
   </data>
   <data name="WordsType" xml:space="preserve">
-    <value>單字</value>
+    <value>Words</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
