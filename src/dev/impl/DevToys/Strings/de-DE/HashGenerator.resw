@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Hash Generator Werkzeug</value>
+    <value>Hash Generator tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Konfiguration</value>
+    <value>Configuration</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
     <value>Hash</value>
   </data>
   <data name="Input" xml:space="preserve">
-    <value>Eingabe</value>
+    <value>Input</value>
   </data>
   <data name="MD5" xml:space="preserve">
     <value>MD5</value>
@@ -142,10 +142,10 @@
     <value>SHA512</value>
   </data>
   <data name="Uppercase" xml:space="preserve">
-    <value>Großbuchstaben</value>
+    <value>Uppercase</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Berechne MD5, SHA1, SHA256 und SHA512 Hash aus einem Text</value>
+    <value>Calculate MD5, SHA1, SHA256 and SHA512 hash from text data</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
     <value>Hash Generator</value>
@@ -157,7 +157,7 @@
     <value>Hex</value>
   </data>
   <data name="OutputTypeTitle" xml:space="preserve">
-    <value>Ausgabetyp</value>
+    <value>Output Type</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
