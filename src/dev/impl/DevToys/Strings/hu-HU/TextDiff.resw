@@ -118,31 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Szöveg összehasonlító eszköz</value>
+    <value>Text comparer tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Konfiguráció</value>
+    <value>Configuration</value>
   </data>
   <data name="Difference" xml:space="preserve">
-    <value>Különbség</value>
+    <value>Difference</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Szöveg Összehasonlító</value>
+    <value>Text Diff</value>
   </data>
   <data name="InlineDifference" xml:space="preserve">
-    <value>Soron belüli mód</value>
+    <value>Inline mode</value>
   </data>
   <data name="LeftText" xml:space="preserve">
-    <value>Régi szöveg</value>
+    <value>Old text</value>
   </data>
   <data name="RightText" xml:space="preserve">
-    <value>Új szöveg</value>
+    <value>New text</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Két szöveg összehasonlítása</value>
+    <value>Compare two texts</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Szöveg Összehasonlító</value>
+    <value>Text Comparer</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
