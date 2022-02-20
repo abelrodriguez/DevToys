@@ -118,37 +118,37 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>마크다운 미리보기 도구</value>
+    <value>Markdown preview tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>설정</value>
+    <value>Configuration</value>
   </data>
   <data name="Dark" xml:space="preserve">
-    <value>어둡게</value>
+    <value>Dark</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>마크다운 미리보기</value>
+    <value>Markdown Preview</value>
   </data>
   <data name="Input" xml:space="preserve">
-    <value>마크다운 내용</value>
+    <value>Markdown</value>
   </data>
   <data name="Light" xml:space="preserve">
-    <value>밝게</value>
+    <value>Light</value>
   </data>
   <data name="Output" xml:space="preserve">
-    <value>미리보기</value>
+    <value>Preview</value>
   </data>
   <data name="Theme" xml:space="preserve">
-    <value>테마</value>
+    <value>Theme</value>
   </data>
   <data name="ThemeDescription" xml:space="preserve">
-    <value>마크다운을 미리볼 때에 대한 테마를 선택합니다.</value>
+    <value>Select which theme to use to preview the Markdown</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Github 방식으로 마크다운 문서를 미리볼 수 있습니다.</value>
+    <value>Preview a Markdown document with a GitHub-like render</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>마크다운 미리보기</value>
+    <value>Markdown Preview</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value>MD</value>
