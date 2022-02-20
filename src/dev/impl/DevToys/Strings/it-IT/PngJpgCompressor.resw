@@ -118,25 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Strumento di compressione PNG e JPEG</value>
+    <value>PNG and JPEG compressor tool</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancella</value>
+    <value>Cancel</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Configurazione</value>
+    <value>Configuration</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>Elimina</value>
+    <value>Delete</value>
   </data>
   <data name="DeleteAll" xml:space="preserve">
-    <value>Elimina tutto</value>
+    <value>Delete all</value>
   </data>
   <data name="DetailsTitle" xml:space="preserve">
-    <value>Dettagli</value>
+    <value>Details</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Compressore PNG / JPEG</value>
+    <value>PNG / JPEG Compressor</value>
   </data>
   <data name="FileSizeDisplay" xml:space="preserve">
     <value>{0:0.##} {1}</value>
@@ -146,19 +146,19 @@
     <value>OK</value>
   </data>
   <data name="SaveAll" xml:space="preserve">
-    <value>Salva tutto</value>
+    <value>Save all</value>
   </data>
   <data name="SaveAs" xml:space="preserve">
-    <value>Salva come</value>
+    <value>Save as</value>
   </data>
   <data name="SeeErrorMessage" xml:space="preserve">
-    <value>Guarda dettagli</value>
+    <value>See details</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Ottimizzatore PNG e JPEG senza perdita di dati</value>
+    <value>Lossless PNG and JPEG optimizer</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Compressore PNG / JPEG</value>
+    <value>PNG / JPEG Compressor</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value>JPG</value>
