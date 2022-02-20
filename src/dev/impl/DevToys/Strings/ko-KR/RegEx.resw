@@ -118,70 +118,70 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>정규식 시험 도구</value>
+    <value>Regular expression tester tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>설정</value>
+    <value>Configuration</value>
   </data>
   <data name="CultureInvariant" xml:space="preserve">
-    <value>문화 중립</value>
+    <value>Culture Invariant</value>
   </data>
   <data name="CultureInvariantDescription" xml:space="preserve">
-    <value>다른 국가의 언어가 발견되어도 무시합니다.</value>
+    <value>Specifies that cultural differences in language is ignored.</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>정규식 시험</value>
+    <value>Regex Tester</value>
   </data>
   <data name="EcmaScript" xml:space="preserve">
-    <value>ECMA 스크립트</value>
+    <value>ECMA Script</value>
   </data>
   <data name="EcmaScriptDescription" xml:space="preserve">
-    <value>정규식을 ECMA 스크립트 방식으로 동작합니다. 이 형식은 문화 중립, 대소문자 무시, 여러줄 옵션을 선택할 수 있습니다.</value>
+    <value>Enables ECMAScript-compliant behavior for the expression. This value can be used only in conjunction with the Culture Invariant, Ignore Case and Multiline options.</value>
   </data>
   <data name="IgnoreCase" xml:space="preserve">
-    <value>대소문자 무시</value>
+    <value>Ignore Case</value>
   </data>
   <data name="IgnoreCaseDescription" xml:space="preserve">
-    <value>문자열을 찾을 때 대소문자를 여부를 신경쓰지 않습니다.</value>
+    <value>Specifies case-insensitive matching.</value>
   </data>
   <data name="IgnoreWhitespace" xml:space="preserve">
-    <value>공백 무시</value>
+    <value>Ignore Whitespace</value>
   </data>
   <data name="IgnoreWhitespaceDescription" xml:space="preserve">
-    <value># 문자로 시작하는 주석 같은 경우, 이후 별도로 인코딩하지 않은 공백 사용 시 해당 줄을 제거합니다. 그러나 언어에 명시된 문자로 이루어진 클래스, 수치 식별자, 토큰 등에 포함된 공백은 영향을 미치지 않습니다.</value>
+    <value>Eliminates unescaped white space from the pattern and enables comments marked with #. However, this value does not affect or eliminate white space in character classes, numeric quantifiers, or tokens that mark the beginning of individual regular expression language elements.</value>
   </data>
   <data name="Multiline" xml:space="preserve">
-    <value>여러줄</value>
+    <value>Multiline</value>
   </data>
   <data name="MultilineDescription" xml:space="preserve">
-    <value>^ 및 $ 문자를 사용하여 처음 및 끝을 맺는 정규식 사용 시 하나의 문단이 아닌 전체 텍스트를 의미하도록 부여합니다.</value>
+    <value>Changes the meaning of ^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string.</value>
   </data>
   <data name="Options" xml:space="preserve">
-    <value>옵션</value>
+    <value>Options</value>
   </data>
   <data name="RegularExpression" xml:space="preserve">
-    <value>정규식</value>
+    <value>Regular expression</value>
   </data>
   <data name="RightToLeft" xml:space="preserve">
-    <value>역순으로</value>
+    <value>Right To Left</value>
   </data>
   <data name="RightToLeftDescription" xml:space="preserve">
-    <value>문자열 검색 시 왼쪽에서 오른쪽이 기본이지만, 오른쪽에서 왼쪽으로 검색 시 선택하세요.</value>
+    <value>Specifies that the search will be from right to left instead of from left to right.</value>
   </data>
   <data name="Singleline" xml:space="preserve">
-    <value>단일 행</value>
+    <value>Singleline</value>
   </data>
   <data name="SinglelineDescription" xml:space="preserve">
-    <value>온점(.) 발견 시 모든 문자를 검색합니다. (기본적으로 \n 문자를 제외한 모든 문자를 검색합니다).</value>
+    <value>Changes the meaning of the dot (.) so it matches every character (instead of every character except \n).</value>
   </data>
   <data name="Text" xml:space="preserve">
-    <value>텍스트</value>
+    <value>Text</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>정규식 평가 및 시험</value>
+    <value>Validate and test regular expressions</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>정규식 시험</value>
+    <value>Regex Tester</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value>Regular expression</value>
