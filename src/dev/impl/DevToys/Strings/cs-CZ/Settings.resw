@@ -118,117 +118,117 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="About" xml:space="preserve">
-    <value>O aplikaci</value>
+    <value>About</value>
   </data>
   <data name="AppTheme" xml:space="preserve">
-    <value>Motiv aplikace</value>
+    <value>App Theme</value>
   </data>
   <data name="AppThemeDescription" xml:space="preserve">
-    <value>Umožňuje změnit v jakém motivu se má aplikace zobrazit</value>
+    <value>Select which app theme to display</value>
   </data>
   <data name="AppTitle" xml:space="preserve">
     <value>DevToys</value>
   </data>
   <data name="Behaviors" xml:space="preserve">
-    <value>Chování</value>
+    <value>Behaviors</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Zavřít</value>
+    <value>Close</value>
   </data>
   <data name="Copy" xml:space="preserve">
-    <value>Kopírovat</value>
+    <value>Copy</value>
   </data>
   <data name="Dark" xml:space="preserve">
-    <value>Tmavý</value>
+    <value>Dark</value>
   </data>
   <data name="DefaultLanguage" xml:space="preserve">
-    <value>Stejný jako v Microsoft Windows</value>
+    <value>Same as Microsoft Windows</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Nastavení</value>
+    <value>Settings</value>
   </data>
   <data name="Font" xml:space="preserve">
-    <value>Písmo</value>
+    <value>Font</value>
   </data>
   <data name="HighlightCurrentLine" xml:space="preserve">
-    <value>Zvýraznění aktuálního řádku</value>
+    <value>Highlight current line</value>
   </data>
   <data name="HighlightCurrentLineDescription" xml:space="preserve">
-    <value>Změna barvy pozadí aktuálního řádku pro větší viditelnost</value>
+    <value>Change the background color of the current line so it's more visible</value>
   </data>
   <data name="Language" xml:space="preserve">
-    <value>Jazyk</value>
+    <value>Language</value>
   </data>
   <data name="LanguageDescription" xml:space="preserve">
-    <value>Po změně tohoto nastavení bude nutný restart, aby se projevily změny</value>
+    <value>The app needs to be restarted when selecting another language</value>
   </data>
   <data name="License" xml:space="preserve">
-    <value>Licence</value>
+    <value>License</value>
   </data>
   <data name="Light" xml:space="preserve">
-    <value>Světlý</value>
+    <value>Light</value>
   </data>
   <data name="LineNumbers" xml:space="preserve">
-    <value>Počet řádek</value>
+    <value>Line numbers</value>
   </data>
   <data name="LineNumbersDescription" xml:space="preserve">
-    <value>Zobrazit počet řádek v textovém editoru</value>
+    <value>Display line numbers in the text editor</value>
   </data>
   <data name="OpenLogs" xml:space="preserve">
-    <value>Otevřít záznamy</value>
+    <value>Open logs</value>
   </data>
   <data name="PrivacyPolicy" xml:space="preserve">
-    <value>Zásady ochrany osobních údajů</value>
+    <value>Privacy policy</value>
   </data>
   <data name="RateAndReview" xml:space="preserve">
-    <value>Ohodnotit na Microsoft Store</value>
+    <value>Rate and review on Microsoft Store</value>
   </data>
   <data name="RenderWhitespace" xml:space="preserve">
-    <value>Vykreslení bílých znaků</value>
+    <value>Render white space</value>
   </data>
   <data name="ReportProblem" xml:space="preserve">
-    <value>Nahlásit chybu</value>
+    <value>Report a problem</value>
   </data>
   <data name="SmartDetection" xml:space="preserve">
-    <value>Chytrá detekce</value>
+    <value>Smart detection</value>
   </data>
   <data name="SmartDetectionDescription" xml:space="preserve">
-    <value>Automatická detekce nejlepšího nástroje na základě obsahu schránky</value>
+    <value>Automatically detect the best tool based on the clipboard content</value>
   </data>
   <data name="SmartDetectionHowTo" xml:space="preserve">
-    <value>Jak používat Chytrou detekci</value>
+    <value>How to use Smart Detection</value>
   </data>
   <data name="SmartDetectionPaste" xml:space="preserve">
-    <value>Automatické vkládání obsahu schránky při výběru doporučeného nástroje</value>
+    <value>Automatically paste the clipboard content when selecting a recommended tool</value>
   </data>
   <data name="SourceCode" xml:space="preserve">
-    <value>Zdrojový kód</value>
+    <value>Source code</value>
   </data>
   <data name="TextEditor" xml:space="preserve">
-    <value>Textový editor</value>
+    <value>Text editor</value>
   </data>
   <data name="ThirdPartyNotices" xml:space="preserve">
-    <value>Licence třetích stran</value>
+    <value>Third party licenses</value>
   </data>
   <data name="UsefulLinks" xml:space="preserve">
-    <value>Užitečné odkazy</value>
+    <value>Useful links</value>
   </data>
   <data name="UseSystemSettings" xml:space="preserve">
-    <value>Použít systémové nastavení</value>
+    <value>Use system settings</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>Verze {0}</value>
+    <value>Version {0}</value>
   </data>
   <data name="WordWrap" xml:space="preserve">
-    <value>Zalamování řádků</value>
+    <value>Wrap word</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Přizpůsobení vzhledu a funkčnosti DevToys</value>
+    <value>Customize DevToys look &amp; feel</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Nastavení</value>
+    <value>Settings</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
-    <value>Configurations Options Settings</value>
+    <value>Configurations Options</value>
   </data>
 </root>
