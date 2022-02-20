@@ -118,117 +118,117 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="About" xml:space="preserve">
-    <value>이 프로그램은</value>
+    <value>About</value>
   </data>
   <data name="AppTheme" xml:space="preserve">
-    <value>앱 테마</value>
+    <value>App Theme</value>
   </data>
   <data name="AppThemeDescription" xml:space="preserve">
-    <value>표시할 앱 테마를 선택합니다.</value>
+    <value>Select which app theme to display</value>
   </data>
   <data name="AppTitle" xml:space="preserve">
     <value>DevToys</value>
   </data>
   <data name="Behaviors" xml:space="preserve">
-    <value>동작</value>
+    <value>Behaviors</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>닫기</value>
+    <value>Close</value>
   </data>
   <data name="Copy" xml:space="preserve">
-    <value>복사</value>
+    <value>Copy</value>
   </data>
   <data name="Dark" xml:space="preserve">
-    <value>어둡게</value>
+    <value>Dark</value>
   </data>
   <data name="DefaultLanguage" xml:space="preserve">
-    <value>OS 언어와 동일하게</value>
+    <value>Same as Microsoft Windows</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>설정</value>
+    <value>Settings</value>
   </data>
   <data name="Font" xml:space="preserve">
-    <value>글꼴</value>
+    <value>Font</value>
   </data>
   <data name="HighlightCurrentLine" xml:space="preserve">
-    <value>선택한 줄 강조</value>
+    <value>Highlight current line</value>
   </data>
   <data name="HighlightCurrentLineDescription" xml:space="preserve">
-    <value>선택한 줄을 잘 보일 만한 배경색으로 바꿉니다.</value>
+    <value>Change the background color of the current line so it's more visible</value>
   </data>
   <data name="Language" xml:space="preserve">
-    <value>언어</value>
+    <value>Language</value>
   </data>
   <data name="LanguageDescription" xml:space="preserve">
-    <value>다른 언어를 선택한 뒤 앱을 재시작해야 합니다.</value>
+    <value>The app needs to be restarted when selecting another language</value>
   </data>
   <data name="License" xml:space="preserve">
-    <value>라이선스</value>
+    <value>License</value>
   </data>
   <data name="Light" xml:space="preserve">
-    <value>밝게</value>
+    <value>Light</value>
   </data>
   <data name="LineNumbers" xml:space="preserve">
-    <value>줄 위치</value>
+    <value>Line numbers</value>
   </data>
   <data name="LineNumbersDescription" xml:space="preserve">
-    <value>편집기에 각 줄마다 수를 표시합니다.</value>
+    <value>Display line numbers in the text editor</value>
   </data>
   <data name="OpenLogs" xml:space="preserve">
-    <value>로그 열기</value>
+    <value>Open logs</value>
   </data>
   <data name="PrivacyPolicy" xml:space="preserve">
-    <value>개인정보 보호정책</value>
+    <value>Privacy policy</value>
   </data>
   <data name="RateAndReview" xml:space="preserve">
-    <value>Microsoft Store에 평가 및 리뷰 남기기</value>
+    <value>Rate and review on Microsoft Store</value>
   </data>
   <data name="RenderWhitespace" xml:space="preserve">
-    <value>공백 문자 표시</value>
+    <value>Render white space</value>
   </data>
   <data name="ReportProblem" xml:space="preserve">
-    <value>문제 보고</value>
+    <value>Report a problem</value>
   </data>
   <data name="SmartDetection" xml:space="preserve">
-    <value>향상된 감지</value>
+    <value>Smart detection</value>
   </data>
   <data name="SmartDetectionDescription" xml:space="preserve">
-    <value>클립보드 내용을 자동으로 감지하여 적합한 도구를 알아서 선택합니다.</value>
+    <value>Automatically detect the best tool based on the clipboard content</value>
   </data>
   <data name="SmartDetectionHowTo" xml:space="preserve">
-    <value>향상된 감지 사용 방법</value>
+    <value>How to use Smart Detection</value>
   </data>
   <data name="SmartDetectionPaste" xml:space="preserve">
-    <value>추천한 도구를 선택할 때 자동으로 클립보드 내용을 붙여넣습니다.</value>
+    <value>Automatically paste the clipboard content when selecting a recommended tool</value>
   </data>
   <data name="SourceCode" xml:space="preserve">
-    <value>소스 코드</value>
+    <value>Source code</value>
   </data>
   <data name="TextEditor" xml:space="preserve">
-    <value>텍스트 편집기</value>
+    <value>Text editor</value>
   </data>
   <data name="ThirdPartyNotices" xml:space="preserve">
-    <value>타사 라이선스</value>
+    <value>Third party licenses</value>
   </data>
   <data name="UsefulLinks" xml:space="preserve">
-    <value>유용한 링크</value>
+    <value>Useful links</value>
   </data>
   <data name="UseSystemSettings" xml:space="preserve">
-    <value>시스템 설정 사용</value>
+    <value>Use system settings</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>버전 {0}</value>
+    <value>Version {0}</value>
   </data>
   <data name="WordWrap" xml:space="preserve">
-    <value>자동 줄바꿈</value>
+    <value>Wrap word</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>DevToys 앱의 디자인을 설정합니다.</value>
+    <value>Customize DevToys look &amp; feel</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>설정</value>
+    <value>Settings</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
-    <value>Configurations Options Settings</value>
+    <value>Configurations Options</value>
   </data>
 </root>
