@@ -118,34 +118,34 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Strumento di codifica e decodifica GZip</value>
+    <value>GZip Encoder and Decoder tool</value>
   </data>
   <data name="Ascii" xml:space="preserve">
     <value>ASCII</value>
   </data>
   <data name="ConfigurationTitle" xml:space="preserve">
-    <value>Configurazione</value>
+    <value>Configuration</value>
   </data>
   <data name="ConversionDecompress" xml:space="preserve">
-    <value>Decomprimi</value>
+    <value>Decompress</value>
   </data>
   <data name="ConversionDescription" xml:space="preserve">
-    <value>Seleziona se l'input deve essere compresso o decompresso</value>
+    <value>Select whether the input should be compressed or decompressed</value>
   </data>
   <data name="ConversionCompress" xml:space="preserve">
-    <value>Comprimi</value>
+    <value>Compress</value>
   </data>
   <data name="ConversionTitle" xml:space="preserve">
-    <value>Comprimi/Decomprimi GZip</value>
+    <value>GZip Compress/Decompress</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
     <value>GZip</value>
   </data>
   <data name="EncodingDescription" xml:space="preserve">
-    <value>Seleziona se l'input deve essere compresso o decompresso</value>
+    <value>Select whether the input should be compressed or decompressed</value>
   </data>
   <data name="EncodingTitle" xml:space="preserve">
-    <value>Codifica</value>
+    <value>Encoding</value>
   </data>
   <data name="InputTitle" xml:space="preserve">
     <value>Input</value>
@@ -157,10 +157,10 @@
     <value>UTF-8</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Comprimi o decomprimi stringhe</value>
+    <value>Compress or decompress strings</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Comprimi / Decomprimi GZip</value>
+    <value>GZip Compress / Decompress</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
