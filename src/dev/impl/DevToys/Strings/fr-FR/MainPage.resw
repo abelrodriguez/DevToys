@@ -118,47 +118,47 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="EnterCompactOverlayTooltip" xml:space="preserve">
-    <value>Keep on top (Ctrl+Up)</value>
+    <value>Garder au premier plan (Ctrl+Up)</value>
   </data>
   <data name="ExitCompactOverlayTooltip" xml:space="preserve">
-    <value>Back to full view (Ctrl+Down)</value>
+    <value>Retour en vue normal (Ctrl+Down)</value>
   </data>
   <data name="NotificationRateAppActionableActionText" xml:space="preserve">
-    <value>rate us now...</value>
+    <value>évaluez maintenant...</value>
   </data>
   <data name="NotificationRateAppMessage" xml:space="preserve">
-    <value>Enjoying DevToys? Please consider rating us!</value>
+    <value>Vous aimez DevToys? N'hésitez pas à évaluer l'app!</value>
   </data>
   <data name="NotificationRateAppTitle" xml:space="preserve">
-    <value>Um... hi! 😅</value>
+    <value>Hum... bonjour! 😅</value>
   </data>
   <data name="NotificationReleaseNoteActionableActionText" xml:space="preserve">
-    <value>read more...</value>
+    <value>en savoir plus...</value>
   </data>
   <data name="NotificationReleaseNoteTitle" xml:space="preserve">
-    <value>We just updated! What's new in {0}? 🚀</value>
+    <value>On vient de mettre à jour! Quoi de neuf dans la version {0}? 🚀</value>
     <comment>{0} is the current app version</comment>
   </data>
   <data name="NotificationUpdateAvailableActionableActionText" xml:space="preserve">
-    <value>update now...</value>
+    <value>mettre à jour maintenant...</value>
   </data>
   <data name="NotificationUpdateAvailableTitle" xml:space="preserve">
-    <value>An update is available! 🚀</value>
+    <value>Une mise à jour est disponible! 🚀</value>
   </data>
   <data name="OpenInNewWindow" xml:space="preserve">
-    <value>Open in a new window</value>
+    <value>Ouvrir dans une nouvelle fenêtre</value>
   </data>
   <data name="PinToolToStart" xml:space="preserve">
-    <value>Pin tool to Start</value>
+    <value>Épingler à l'écran de démarrage</value>
   </data>
   <data name="PinToolToStartProblem" xml:space="preserve">
-    <value>Unable to pin the tool to start. For more details, please check the log.</value>
+    <value>Impossible d'épingler l'outil à l'écran de démarrage. Pour plus de détails, veuillez consulter les logs.</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Type to search for tools...</value>
+    <value>Taper pour recherche un outil...</value>
   </data>
   <data name="SearchNoResultsFound" xml:space="preserve">
-    <value>No results found</value>
+    <value>Aucun résultat trouvé</value>
   </data>
   <data name="WindowTitle" xml:space="preserve">
     <value>DevToys</value>
