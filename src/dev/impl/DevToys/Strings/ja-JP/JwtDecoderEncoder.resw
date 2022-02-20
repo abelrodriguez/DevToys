@@ -118,49 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>JWT デコーダー</value>
+    <value>JWT Decoder tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>構成</value>
+    <value>Configuration</value>
   </data>
   <data name="ConversionDescription" xml:space="preserve">
-    <value>実行したい操作を選択してください</value>
+    <value>Select which action you want to use</value>
   </data>
   <data name="ConversionTitle" xml:space="preserve">
-    <value>操作</value>
+    <value>Action</value>
   </data>
   <data name="Decode" xml:space="preserve">
-    <value>デコード</value>
+    <value>Decode</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>JWT デコーダー</value>
+    <value>JWT Decoder</value>
   </data>
   <data name="Encode" xml:space="preserve">
-    <value>エンコード</value>
+    <value>Encode</value>
   </data>
   <data name="EncodingDescription" xml:space="preserve">
-    <value>使用する文字コードを選択します</value>
+    <value>Select which encoding algorithm you want to use</value>
   </data>
   <data name="EncodingTitle" xml:space="preserve">
-    <value>文字コード</value>
+    <value>Encoding</value>
   </data>
   <data name="HeaderLabel" xml:space="preserve">
-    <value>ヘッダー</value>
+    <value>Header</value>
   </data>
   <data name="JwtTokenLabel" xml:space="preserve">
-    <value>JWT トークン</value>
+    <value>Jwt Token</value>
   </data>
   <data name="PayloadLabel" xml:space="preserve">
-    <value>ペイロード</value>
+    <value>Payload</value>
   </data>
   <data name="SecurityLabel" xml:space="preserve">
-    <value>セキュリティ</value>
+    <value>Security</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>JWT ヘッダー、ペイロード、署名をデコードします</value>
+    <value>Decode a JWT header, payload and signature</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>JWT デコーダー</value>
+    <value>JWT Decoder</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
