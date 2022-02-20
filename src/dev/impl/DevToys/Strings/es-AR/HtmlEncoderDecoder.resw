@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Codificador y Decodificador de HTML</value>
+    <value>HTML Encoder and Decoder tool</value>
   </data>
   <data name="ConfigurationTitle" xml:space="preserve">
-    <value>Configuración</value>
+    <value>Configuration</value>
   </data>
   <data name="ConversionDecode" xml:space="preserve">
-    <value>Decodificar</value>
+    <value>Decode</value>
   </data>
   <data name="ConversionDescription" xml:space="preserve">
-    <value>Seleccioná qué modo de conversión querés usar</value>
+    <value>Select which conversion mode you want to use</value>
   </data>
   <data name="ConversionEncode" xml:space="preserve">
-    <value>Codificar</value>
+    <value>Encode</value>
   </data>
   <data name="ConversionTitle" xml:space="preserve">
     <value>Conversion</value>
@@ -139,22 +139,22 @@
     <value>HTML</value>
   </data>
   <data name="EncodingDescription" xml:space="preserve">
-    <value>Elegí que codificación querés usar</value>
+    <value>Select which encoding do you want to use</value>
   </data>
   <data name="EncodingTitle" xml:space="preserve">
-    <value>Codificación</value>
+    <value>Encoding</value>
   </data>
   <data name="InputTitle" xml:space="preserve">
-    <value>Entrada</value>
+    <value>Input</value>
   </data>
   <data name="OutputTitle" xml:space="preserve">
-    <value>Salida</value>
+    <value>Output</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Codificá o Decodificá todos los caracteres aplicables a sus entidades HTML correspondientes</value>
+    <value>Encode or decode all the applicable characters to their corresponding HTML entities</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Codificador / Decodificador de HTML</value>
+    <value>HTML Encoder / Decoder</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
