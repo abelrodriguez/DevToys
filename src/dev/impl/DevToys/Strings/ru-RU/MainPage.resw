@@ -118,47 +118,47 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="EnterCompactOverlayTooltip" xml:space="preserve">
-    <value>Поверх остальных окон (CTRL + СТРЕЛКА ВВЕРХ)</value>
+    <value>Keep on top (Ctrl+Up)</value>
   </data>
   <data name="ExitCompactOverlayTooltip" xml:space="preserve">
-    <value>Вернуться к полному представлению (CTRL + СТРЕЛКА ВНИЗ)</value>
+    <value>Back to full view (Ctrl+Down)</value>
   </data>
   <data name="NotificationRateAppActionableActionText" xml:space="preserve">
-    <value>оценить сейчас...</value>
+    <value>rate us now...</value>
   </data>
   <data name="NotificationRateAppMessage" xml:space="preserve">
-    <value>Нравится DevToys? Пожалуйста, оцените нас!</value>
+    <value>Enjoying DevToys? Please consider rating us!</value>
   </data>
   <data name="NotificationRateAppTitle" xml:space="preserve">
-    <value>Эм... Привет! 😅</value>
+    <value>Um... hi! 😅</value>
   </data>
   <data name="NotificationReleaseNoteActionableActionText" xml:space="preserve">
-    <value>подробнее...</value>
+    <value>read more...</value>
   </data>
   <data name="NotificationReleaseNoteTitle" xml:space="preserve">
-    <value>Новая версия! Что изменилось в {0}? 🚀</value>
+    <value>We just updated! What's new in {0}? 🚀</value>
     <comment>{0} is the current app version</comment>
   </data>
   <data name="NotificationUpdateAvailableActionableActionText" xml:space="preserve">
-    <value>обновить...</value>
+    <value>update now...</value>
   </data>
   <data name="NotificationUpdateAvailableTitle" xml:space="preserve">
-    <value>Доступна новая версия! 🚀</value>
+    <value>An update is available! 🚀</value>
   </data>
   <data name="OpenInNewWindow" xml:space="preserve">
-    <value>Открыть в новом окне</value>
+    <value>Open in a new window</value>
   </data>
   <data name="PinToolToStart" xml:space="preserve">
-    <value>Закрепить в меню «Пуск»</value>
+    <value>Pin tool to Start</value>
   </data>
   <data name="PinToolToStartProblem" xml:space="preserve">
     <value>Unable to pin the tool to start. For more details, please check the log.</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Найти инструмент...</value>
+    <value>Type to search for tools...</value>
   </data>
   <data name="SearchNoResultsFound" xml:space="preserve">
-    <value>Результаты отсутствуют</value>
+    <value>No results found</value>
   </data>
   <data name="WindowTitle" xml:space="preserve">
     <value>DevToys</value>
