@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>String Utilities Werkzeug</value>
+    <value>String utilities tool</value>
   </data>
   <data name="AlternatingCase" xml:space="preserve">
     <value>aLtErNaTiNg cAsE</value>
@@ -130,25 +130,25 @@
     <value>camelCase</value>
   </data>
   <data name="CharacterDistribution" xml:space="preserve">
-    <value>Zeichenverteilung</value>
+    <value>Character distribution</value>
   </data>
   <data name="Characters" xml:space="preserve">
-    <value>Zeichen:</value>
+    <value>Characters:</value>
   </data>
   <data name="CobolCase" xml:space="preserve">
     <value>COBOL-CASE</value>
   </data>
   <data name="Column" xml:space="preserve">
-    <value>Spalte:</value>
+    <value>Column:</value>
   </data>
   <data name="ConstantCase" xml:space="preserve">
     <value>CONSTANT_CASE</value>
   </data>
   <data name="Convert" xml:space="preserve">
-    <value>Konvertieren</value>
+    <value>Convert</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Inspektor &amp; Case Konvertierer</value>
+    <value>Inspector &amp; Case Converter</value>
   </data>
   <data name="InverseCase" xml:space="preserve">
     <value>InVeRsE CaSe</value>
@@ -157,19 +157,19 @@
     <value>kebab-case</value>
   </data>
   <data name="Line" xml:space="preserve">
-    <value>Zeile:</value>
+    <value>Line:</value>
   </data>
   <data name="Lines" xml:space="preserve">
-    <value>Zeilen:</value>
+    <value>Lines:</value>
   </data>
   <data name="LowerCase" xml:space="preserve">
     <value>lower case</value>
   </data>
   <data name="OriginalCase" xml:space="preserve">
-    <value>Originaler Text</value>
+    <value>Original text</value>
   </data>
   <data name="Paragraphs" xml:space="preserve">
-    <value>Absätze:</value>
+    <value>Paragraphs:</value>
   </data>
   <data name="PascalCase" xml:space="preserve">
     <value>PascalCase</value>
@@ -178,19 +178,19 @@
     <value>Position:</value>
   </data>
   <data name="Selection" xml:space="preserve">
-    <value>Auswahl</value>
+    <value>Selection</value>
   </data>
   <data name="SentenceCase" xml:space="preserve">
     <value>Sentence case</value>
   </data>
   <data name="Sentences" xml:space="preserve">
-    <value>Sätze:</value>
+    <value>Sentences:</value>
   </data>
   <data name="SnakeCase" xml:space="preserve">
     <value>snake_case</value>
   </data>
   <data name="Statistics" xml:space="preserve">
-    <value>Statistik</value>
+    <value>Statistics</value>
   </data>
   <data name="String" xml:space="preserve">
     <value>String</value>
@@ -205,16 +205,16 @@
     <value>UPPER CASE</value>
   </data>
   <data name="WordDistribution" xml:space="preserve">
-    <value>Wortverteilung</value>
+    <value>Word distribution</value>
   </data>
   <data name="Words" xml:space="preserve">
-    <value>Wörter:</value>
+    <value>Words:</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Analysiere Text und konvertiere Ihn in einen anderen Case</value>
+    <value>Analyze text and convert it to a different case</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Text Case Konvertierer und Inspektor</value>
+    <value>Text Case Converter and Inspector</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value>String</value>
