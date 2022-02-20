@@ -118,117 +118,117 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="About" xml:space="preserve">
-    <value>Informazioni</value>
+    <value>About</value>
   </data>
   <data name="AppTheme" xml:space="preserve">
-    <value>Tema</value>
+    <value>App Theme</value>
   </data>
   <data name="AppThemeDescription" xml:space="preserve">
-    <value>Seleziona il tema dell'app</value>
+    <value>Select which app theme to display</value>
   </data>
   <data name="AppTitle" xml:space="preserve">
     <value>DevToys</value>
   </data>
   <data name="Behaviors" xml:space="preserve">
-    <value>Comportamenti</value>
+    <value>Behaviors</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Chiudi</value>
+    <value>Close</value>
   </data>
   <data name="Copy" xml:space="preserve">
-    <value>Copia</value>
+    <value>Copy</value>
   </data>
   <data name="Dark" xml:space="preserve">
-    <value>Scuro</value>
+    <value>Dark</value>
   </data>
   <data name="DefaultLanguage" xml:space="preserve">
-    <value>Predefinita di Windows</value>
+    <value>Same as Microsoft Windows</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Impostazioni</value>
+    <value>Settings</value>
   </data>
   <data name="Font" xml:space="preserve">
     <value>Font</value>
   </data>
   <data name="HighlightCurrentLine" xml:space="preserve">
-    <value>Evidenzia riga corrente</value>
+    <value>Highlight current line</value>
   </data>
   <data name="HighlightCurrentLineDescription" xml:space="preserve">
-    <value>Cambia il colore di riempimento della riga corrente per aumentarne la visibilità</value>
+    <value>Change the background color of the current line so it's more visible</value>
   </data>
   <data name="Language" xml:space="preserve">
-    <value>Lingua</value>
+    <value>Language</value>
   </data>
   <data name="LanguageDescription" xml:space="preserve">
-    <value>Riavvio dell'app necessario per apportare modifiche alla lingua</value>
+    <value>The app needs to be restarted when selecting another language</value>
   </data>
   <data name="License" xml:space="preserve">
-    <value>Licenza</value>
+    <value>License</value>
   </data>
   <data name="Light" xml:space="preserve">
-    <value>Chiaro</value>
+    <value>Light</value>
   </data>
   <data name="LineNumbers" xml:space="preserve">
-    <value>Numero linee</value>
+    <value>Line numbers</value>
   </data>
   <data name="LineNumbersDescription" xml:space="preserve">
-    <value>Visualizza i numeri di riga nell'editor di testo</value>
+    <value>Display line numbers in the text editor</value>
   </data>
   <data name="OpenLogs" xml:space="preserve">
-    <value>Apri file di log</value>
+    <value>Open logs</value>
   </data>
   <data name="PrivacyPolicy" xml:space="preserve">
-    <value>Privacy Policy</value>
+    <value>Privacy policy</value>
   </data>
   <data name="RateAndReview" xml:space="preserve">
-    <value>Valuta e recensisci nel Microsoft Store</value>
+    <value>Rate and review on Microsoft Store</value>
   </data>
   <data name="RenderWhitespace" xml:space="preserve">
-    <value>Reindirizza spazi bianchi</value>
+    <value>Render white space</value>
   </data>
   <data name="ReportProblem" xml:space="preserve">
-    <value>Segnala un problema</value>
+    <value>Report a problem</value>
   </data>
   <data name="SmartDetection" xml:space="preserve">
-    <value>Rilevamento Intelligente</value>
+    <value>Smart detection</value>
   </data>
   <data name="SmartDetectionDescription" xml:space="preserve">
-    <value>Rileva automaticamente lo strumento adatto all'uso in base al contenuto degli appunti</value>
+    <value>Automatically detect the best tool based on the clipboard content</value>
   </data>
   <data name="SmartDetectionHowTo" xml:space="preserve">
-    <value>Come utilizzare il Rilevamento Intelligente</value>
+    <value>How to use Smart Detection</value>
   </data>
   <data name="SmartDetectionPaste" xml:space="preserve">
-    <value>Incolla automaticamente il contenuto degli appunti quando selezioni uno strumento consigliato</value>
+    <value>Automatically paste the clipboard content when selecting a recommended tool</value>
   </data>
   <data name="SourceCode" xml:space="preserve">
-    <value>Codice sorgente</value>
+    <value>Source code</value>
   </data>
   <data name="TextEditor" xml:space="preserve">
-    <value>Editor di testo</value>
+    <value>Text editor</value>
   </data>
   <data name="ThirdPartyNotices" xml:space="preserve">
-    <value>Licenze di terze parti</value>
+    <value>Third party licenses</value>
   </data>
   <data name="UsefulLinks" xml:space="preserve">
-    <value>Collegamenti utili</value>
+    <value>Useful links</value>
   </data>
   <data name="UseSystemSettings" xml:space="preserve">
-    <value>Predefinito di Sistema</value>
+    <value>Use system settings</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>Versione {0}</value>
+    <value>Version {0}</value>
   </data>
   <data name="WordWrap" xml:space="preserve">
-    <value>A capo automatico</value>
+    <value>Wrap word</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Modifica lo stile e il funzionamento di DevToys</value>
+    <value>Customize DevToys look &amp; feel</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Impostazioni</value>
+    <value>Settings</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
-    <value>Configurations Options Settings</value>
+    <value>Configurations Options</value>
   </data>
 </root>
