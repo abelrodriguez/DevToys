@@ -118,49 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>JSON zu YAML und YAML zu JSON Konvertierungswerkzeug</value>
+    <value>JSON to YAML and YAML to JSON converter tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Konfiguration</value>
+    <value>Configuration</value>
   </data>
   <data name="ConversionDescription" xml:space="preserve">
-    <value>Wähle aus welcher Konvertierungsmodus verwendet werden soll</value>
+    <value>Select which conversion mode you want to use</value>
   </data>
   <data name="ConversionTitle" xml:space="preserve">
-    <value>Konvertierung</value>
+    <value>Conversion</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Json &lt;&gt; Yaml</value>
+    <value>JSON &lt;&gt; YAML</value>
   </data>
   <data name="FourSpaces" xml:space="preserve">
-    <value>4 Leerzeichen</value>
+    <value>4 spaces</value>
   </data>
   <data name="Indentation" xml:space="preserve">
-    <value>Einrückung</value>
+    <value>Indentation</value>
   </data>
   <data name="Input" xml:space="preserve">
-    <value>Eingabe</value>
+    <value>Input</value>
   </data>
   <data name="InvalidYaml" xml:space="preserve">
-    <value>Das eingegebene YAML ist nicht valide.</value>
+    <value>The entered YAML is invalid.</value>
   </data>
   <data name="JsonToYaml" xml:space="preserve">
-    <value>Json zu Yaml</value>
+    <value>JSON to YAML</value>
   </data>
   <data name="Output" xml:space="preserve">
-    <value>Ausgabe</value>
+    <value>Output</value>
   </data>
   <data name="TwoSpaces" xml:space="preserve">
-    <value>2 Leerzeichen</value>
+    <value>2 spaces</value>
   </data>
   <data name="YamlToJson" xml:space="preserve">
-    <value>Yaml zu Json</value>
+    <value>YAML to JSON</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Konvertiere Json zu Yaml und umgekehrt</value>
+    <value>Convert JSON data to YAML and vice versa</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Json &lt;&gt; Yaml Konvertierer</value>
+    <value>JSON &lt;&gt; YAML Converter</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
