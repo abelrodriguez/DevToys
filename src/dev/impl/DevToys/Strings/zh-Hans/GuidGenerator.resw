@@ -118,52 +118,52 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>通用唯一识别码（UUID）生成工具</value>
+    <value>UUID Generator tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>配置</value>
+    <value>Configuration</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>通用唯一识别码（UUID）</value>
+    <value>UUID</value>
   </data>
   <data name="Generate" xml:space="preserve">
-    <value>生成</value>
+    <value>Generate</value>
   </data>
   <data name="GenerateButton" xml:space="preserve">
-    <value>生成 UUID</value>
+    <value>Generate UUID(s)</value>
   </data>
   <data name="Guids" xml:space="preserve">
-    <value>生成的通用唯一识别码（UUID）</value>
+    <value>UUID(s)</value>
   </data>
   <data name="Hyphens" xml:space="preserve">
-    <value>连字符</value>
+    <value>Hyphens</value>
   </data>
   <data name="MultiplySymbol" xml:space="preserve">
     <value>x</value>
   </data>
   <data name="NumberOfGuidsToGenerate_AutomationProperties_Name" xml:space="preserve">
-    <value>要生成的 UUID 个数</value>
+    <value>Number of UUID to generate</value>
   </data>
   <data name="Uppercase" xml:space="preserve">
-    <value>大写字母</value>
+    <value>Uppercase</value>
   </data>
   <data name="UuidVersionFour" xml:space="preserve">
-    <value>版本 4（UUID）</value>
+    <value>4 (GUID)</value>
   </data>
   <data name="UuidVersionOne" xml:space="preserve">
-    <value>版本 1</value>
+    <value>1</value>
   </data>
   <data name="VersionDescription" xml:space="preserve">
-    <value>选择要生成的 UUID 版本</value>
+    <value>Choose the version of UUID to generate</value>
   </data>
   <data name="VersionTitle" xml:space="preserve">
-    <value>UUID 版本</value>
+    <value>UUID version</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>生成带有 UUID 1 和 4 的版本</value>
+    <value>Generate UUIDs version 1 and 4</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>通用唯一识别码（UUID）生成工具</value>
+    <value>UUID Generator</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value>GUID</value>
