@@ -118,25 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>PNG és JPEG tömörítő eszköz</value>
+    <value>PNG and JPEG compressor tool</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Mégse</value>
+    <value>Cancel</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Konfiguráció</value>
+    <value>Configuration</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>Törlés</value>
+    <value>Delete</value>
   </data>
   <data name="DeleteAll" xml:space="preserve">
-    <value>Összes törlése</value>
+    <value>Delete all</value>
   </data>
   <data name="DetailsTitle" xml:space="preserve">
-    <value>Részletek</value>
+    <value>Details</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>PNG / JPEG Tömörítő</value>
+    <value>PNG / JPEG Compressor</value>
   </data>
   <data name="FileSizeDisplay" xml:space="preserve">
     <value>{0:0.##} {1}</value>
@@ -146,19 +146,19 @@
     <value>OK</value>
   </data>
   <data name="SaveAll" xml:space="preserve">
-    <value>Összes mentése</value>
+    <value>Save all</value>
   </data>
   <data name="SaveAs" xml:space="preserve">
-    <value>Mentés másként</value>
+    <value>Save as</value>
   </data>
   <data name="SeeErrorMessage" xml:space="preserve">
-    <value>Részletek megjelenítése</value>
+    <value>See details</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Veszteség mentes PNG és JPEG optimalizáló</value>
+    <value>Lossless PNG and JPEG optimizer</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>PNG / JPEG Tömörítő</value>
+    <value>PNG / JPEG Compressor</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value>JPG</value>
