@@ -118,40 +118,40 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Ferramenta geradora de Checksum</value>
+    <value>Checksum Generator tool</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+    <value>Cancel</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Configuração</value>
+    <value>Configuration</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Gerar um hash com Checksum baseado num ficheiro</value>
+    <value>Generate a hash with Checksum based on a file</value>
   </data>
   <data name="HashingAlgorithmDescription" xml:space="preserve">
-    <value>Selecione o algoritmo de hash que deseja utilisar</value>
+    <value>Select which hashing algorithm you want to use</value>
   </data>
   <data name="HashingAlgorithmTitle" xml:space="preserve">
-    <value>Algoritmo de hash</value>
+    <value>Hashing Algorithm</value>
   </data>
   <data name="Input" xml:space="preserve">
-    <value>Entrada</value>
+    <value>Input</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
     <value>Checksum</value>
   </data>
   <data name="Output" xml:space="preserve">
-    <value>Resultado</value>
+    <value>Output</value>
   </data>
   <data name="OutputComparer" xml:space="preserve">
-    <value>Comparador de resultado</value>
+    <value>Output Comparer</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
     <value>Checksum Generator</value>
   </data>
   <data name="Uppercase" xml:space="preserve">
-    <value>Maiúsculas</value>
+    <value>Uppercase</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
