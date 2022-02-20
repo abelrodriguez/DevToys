@@ -118,31 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Alat Pembanding Teks</value>
+    <value>Text comparer tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Konfigurasi</value>
+    <value>Configuration</value>
   </data>
   <data name="Difference" xml:space="preserve">
-    <value>Perbedaan</value>
+    <value>Difference</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Teks berbeda</value>
+    <value>Text Diff</value>
   </data>
   <data name="InlineDifference" xml:space="preserve">
-    <value>Mode sebaris</value>
+    <value>Inline mode</value>
   </data>
   <data name="LeftText" xml:space="preserve">
-    <value>Teks lama</value>
+    <value>Old text</value>
   </data>
   <data name="RightText" xml:space="preserve">
-    <value>Teks baru</value>
+    <value>New text</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Bandingkan 2 teks</value>
+    <value>Compare two texts</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Pembanding Teks</value>
+    <value>Text Comparer</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
