@@ -118,47 +118,47 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>PNG 및 JPEG 압축 도구</value>
+    <value>PNG and JPEG compressor tool</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>취소</value>
+    <value>Cancel</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>설정</value>
+    <value>Configuration</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>삭제</value>
+    <value>Delete</value>
   </data>
   <data name="DeleteAll" xml:space="preserve">
-    <value>모두 삭제</value>
+    <value>Delete all</value>
   </data>
   <data name="DetailsTitle" xml:space="preserve">
-    <value>상세</value>
+    <value>Details</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>PNG / JPEG 압축</value>
+    <value>PNG / JPEG Compressor</value>
   </data>
   <data name="FileSizeDisplay" xml:space="preserve">
     <value>{0:0.##} {1}</value>
     <comment>{0} is a decimal number representing a file size. {1} is a unit, like Bytes, KB, MB, GB, TB</comment>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>확인</value>
+    <value>OK</value>
   </data>
   <data name="SaveAll" xml:space="preserve">
-    <value>모두 저장</value>
+    <value>Save all</value>
   </data>
   <data name="SaveAs" xml:space="preserve">
-    <value>다른 이름으로 저장</value>
+    <value>Save as</value>
   </data>
   <data name="SeeErrorMessage" xml:space="preserve">
-    <value>자세히 보기</value>
+    <value>See details</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>무손실 PNG 및 JPEG 최적화 도구</value>
+    <value>Lossless PNG and JPEG optimizer</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>PNG / JPEG 압축</value>
+    <value>PNG / JPEG Compressor</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value>JPG</value>
