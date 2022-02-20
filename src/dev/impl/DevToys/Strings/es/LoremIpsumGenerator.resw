@@ -118,43 +118,43 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Generador de Lorem Ipsum</value>
+    <value>Lorem Ipsum Generator tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Configuración</value>
+    <value>Configuration</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Generar Lorem Ipsum</value>
+    <value>Generate Lorem Ipsum placeholder text</value>
   </data>
   <data name="LengthDescription" xml:space="preserve">
-    <value>Número de palabras, frases o párrafos a generar</value>
+    <value>Number of words, sentences or paragraphs to generate</value>
   </data>
   <data name="LengthTitle" xml:space="preserve">
-    <value>Longitud</value>
+    <value>Length</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
     <value>Lorem Ipsum</value>
   </data>
   <data name="Output" xml:space="preserve">
-    <value>Resultado</value>
+    <value>Output</value>
   </data>
   <data name="ParagraphsType" xml:space="preserve">
-    <value>Párrafos</value>
+    <value>Paragraphs</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Generador de Lorem Ipsum</value>
+    <value>Lorem Ipsum Generator</value>
   </data>
   <data name="SentencesType" xml:space="preserve">
-    <value>Frases</value>
+    <value>Sentences</value>
   </data>
   <data name="TypeDescription" xml:space="preserve">
-    <value>Generar palabras, frases o párrafos de Lorem Ipsum</value>
+    <value>Generate words, sentences or paragraphs of Lorem Ipsum</value>
   </data>
   <data name="TypeTitle" xml:space="preserve">
-    <value>Tipo</value>
+    <value>Type</value>
   </data>
   <data name="WordsType" xml:space="preserve">
-    <value>Palabras</value>
+    <value>Words</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
