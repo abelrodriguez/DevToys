@@ -118,49 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>GZip 圧縮展開ツール</value>
+    <value>GZip Encoder and Decoder tool</value>
   </data>
   <data name="Ascii" xml:space="preserve">
     <value>ASCII</value>
   </data>
   <data name="ConfigurationTitle" xml:space="preserve">
-    <value>構成</value>
+    <value>Configuration</value>
   </data>
   <data name="ConversionDecompress" xml:space="preserve">
-    <value>展開</value>
+    <value>Decompress</value>
   </data>
   <data name="ConversionDescription" xml:space="preserve">
-    <value>圧縮では文字列を GZip で圧縮した後に Base64 にエンコードされます。展開では Base64 文字列をデコードして GZip にて展開されます。</value>
+    <value>Select whether the input should be compressed or decompressed</value>
   </data>
   <data name="ConversionCompress" xml:space="preserve">
-    <value>圧縮</value>
+    <value>Compress</value>
   </data>
   <data name="ConversionTitle" xml:space="preserve">
-    <value>GZip 圧縮/展開</value>
+    <value>GZip Compress/Decompress</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
     <value>GZip</value>
   </data>
   <data name="EncodingDescription" xml:space="preserve">
-    <value>入力された文字列の圧縮/展開を行います。</value>
+    <value>Select whether the input should be compressed or decompressed</value>
   </data>
   <data name="EncodingTitle" xml:space="preserve">
-    <value>エンコード</value>
+    <value>Encoding</value>
   </data>
   <data name="InputTitle" xml:space="preserve">
-    <value>入力</value>
+    <value>Input</value>
   </data>
   <data name="OutputTitle" xml:space="preserve">
-    <value>出力</value>
+    <value>Output</value>
   </data>
   <data name="Utf8" xml:space="preserve">
     <value>UTF-8</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>GZip と Base64 を組み合わせた圧縮/展開ツール</value>
+    <value>Compress or decompress strings</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>GZip を利用した文字列の圧縮と展開</value>
+    <value>GZip Compress / Decompress</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
