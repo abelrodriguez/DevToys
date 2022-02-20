@@ -118,117 +118,117 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="About" xml:space="preserve">
-    <value>Info App</value>
+    <value>About</value>
   </data>
   <data name="AppTheme" xml:space="preserve">
-    <value>Tema Aplikasi</value>
+    <value>App Theme</value>
   </data>
   <data name="AppThemeDescription" xml:space="preserve">
-    <value>Pilih tema aplikasi mana yang ingin digunakan</value>
+    <value>Select which app theme to display</value>
   </data>
   <data name="AppTitle" xml:space="preserve">
     <value>DevToys</value>
   </data>
   <data name="Behaviors" xml:space="preserve">
-    <value>Perilaku</value>
+    <value>Behaviors</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Tutup</value>
+    <value>Close</value>
   </data>
   <data name="Copy" xml:space="preserve">
     <value>Copy</value>
   </data>
   <data name="Dark" xml:space="preserve">
-    <value>Gelap</value>
+    <value>Dark</value>
   </data>
   <data name="DefaultLanguage" xml:space="preserve">
-    <value>Sama seperti Microsoft Windows</value>
+    <value>Same as Microsoft Windows</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Pengaturan</value>
+    <value>Settings</value>
   </data>
   <data name="Font" xml:space="preserve">
     <value>Font</value>
   </data>
   <data name="HighlightCurrentLine" xml:space="preserve">
-    <value>Sorot baris saat ini</value>
+    <value>Highlight current line</value>
   </data>
   <data name="HighlightCurrentLineDescription" xml:space="preserve">
-    <value>Ubah warna latar belakang garis saat ini agar lebih terlihat</value>
+    <value>Change the background color of the current line so it's more visible</value>
   </data>
   <data name="Language" xml:space="preserve">
-    <value>Bahasa</value>
+    <value>Language</value>
   </data>
   <data name="LanguageDescription" xml:space="preserve">
-    <value>Aplikasi perlu dimulai ulang saat memilih bahasa lain</value>
+    <value>The app needs to be restarted when selecting another language</value>
   </data>
   <data name="License" xml:space="preserve">
-    <value>Lisensi</value>
+    <value>License</value>
   </data>
   <data name="Light" xml:space="preserve">
-    <value>Terang</value>
+    <value>Light</value>
   </data>
   <data name="LineNumbers" xml:space="preserve">
-    <value>Nomor baris</value>
+    <value>Line numbers</value>
   </data>
   <data name="LineNumbersDescription" xml:space="preserve">
-    <value>Tampilkan nomor baris di editor teks</value>
+    <value>Display line numbers in the text editor</value>
   </data>
   <data name="OpenLogs" xml:space="preserve">
-    <value>Buka log</value>
+    <value>Open logs</value>
   </data>
   <data name="PrivacyPolicy" xml:space="preserve">
-    <value>Kebijakan privasi</value>
+    <value>Privacy policy</value>
   </data>
   <data name="RateAndReview" xml:space="preserve">
-    <value>Beri peringkat dan ulas di Microsoft Store</value>
+    <value>Rate and review on Microsoft Store</value>
   </data>
   <data name="RenderWhitespace" xml:space="preserve">
-    <value>Render spasi putih</value>
+    <value>Render white space</value>
   </data>
   <data name="ReportProblem" xml:space="preserve">
-    <value>Laporkan masalah</value>
+    <value>Report a problem</value>
   </data>
   <data name="SmartDetection" xml:space="preserve">
-    <value>Deteksi pintar</value>
+    <value>Smart detection</value>
   </data>
   <data name="SmartDetectionDescription" xml:space="preserve">
-    <value>Secara otomatis mendeteksi alat terbaik berdasarkan konten clipboard</value>
+    <value>Automatically detect the best tool based on the clipboard content</value>
   </data>
   <data name="SmartDetectionHowTo" xml:space="preserve">
-    <value>Cara menggunakan Deteksi Pintra</value>
+    <value>How to use Smart Detection</value>
   </data>
   <data name="SmartDetectionPaste" xml:space="preserve">
-    <value>Tempel konten clipboard secara otomatis saat memilih alat yang direkomendasikan</value>
+    <value>Automatically paste the clipboard content when selecting a recommended tool</value>
   </data>
   <data name="SourceCode" xml:space="preserve">
-    <value>Kode Sumber</value>
+    <value>Source code</value>
   </data>
   <data name="TextEditor" xml:space="preserve">
-    <value>Editor teks</value>
+    <value>Text editor</value>
   </data>
   <data name="ThirdPartyNotices" xml:space="preserve">
-    <value>Lisensi pihak ketiga</value>
+    <value>Third party licenses</value>
   </data>
   <data name="UsefulLinks" xml:space="preserve">
-    <value>Tautan yang berguna</value>
+    <value>Useful links</value>
   </data>
   <data name="UseSystemSettings" xml:space="preserve">
-    <value>Gunakan pengaturan sistem</value>
+    <value>Use system settings</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>Versi {0}</value>
+    <value>Version {0}</value>
   </data>
   <data name="WordWrap" xml:space="preserve">
-    <value>Bungkus kata</value>
+    <value>Wrap word</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Sesuaikan Tampilan dan nuansa DevToys</value>
+    <value>Customize DevToys look &amp; feel</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Pengaturan</value>
+    <value>Settings</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
-    <value>Configurations Options Settings</value>
+    <value>Configurations Options</value>
   </data>
 </root>
