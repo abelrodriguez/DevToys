@@ -118,105 +118,105 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>字串常用工具</value>
+    <value>String utilities tool</value>
   </data>
   <data name="AlternatingCase" xml:space="preserve">
-    <value>交替式大小寫</value>
+    <value>aLtErNaTiNg cAsE</value>
   </data>
   <data name="Bytes" xml:space="preserve">
-    <value>位元組：</value>
+    <value>Bytes:</value>
   </data>
   <data name="CamelCase" xml:space="preserve">
-    <value>駝峰型大小寫</value>
+    <value>camelCase</value>
   </data>
   <data name="CharacterDistribution" xml:space="preserve">
-    <value>字元分布</value>
+    <value>Character distribution</value>
   </data>
   <data name="Characters" xml:space="preserve">
-    <value>字元：</value>
+    <value>Characters:</value>
   </data>
   <data name="CobolCase" xml:space="preserve">
-    <value>COBOL 式大小寫</value>
+    <value>COBOL-CASE</value>
   </data>
   <data name="Column" xml:space="preserve">
-    <value>列：</value>
+    <value>Column:</value>
   </data>
   <data name="ConstantCase" xml:space="preserve">
-    <value>固定大小寫</value>
+    <value>CONSTANT_CASE</value>
   </data>
   <data name="Convert" xml:space="preserve">
-    <value>轉換</value>
+    <value>Convert</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>檢查工具 &amp; 大小寫轉換工具</value>
+    <value>Inspector &amp; Case Converter</value>
   </data>
   <data name="InverseCase" xml:space="preserve">
-    <value>反轉大小寫</value>
+    <value>InVeRsE CaSe</value>
   </data>
   <data name="KebabCase" xml:space="preserve">
-    <value>串燒型大小寫</value>
+    <value>kebab-case</value>
   </data>
   <data name="Line" xml:space="preserve">
-    <value>行：</value>
+    <value>Line:</value>
   </data>
   <data name="Lines" xml:space="preserve">
-    <value>行：</value>
+    <value>Lines:</value>
   </data>
   <data name="LowerCase" xml:space="preserve">
-    <value>小寫</value>
+    <value>lower case</value>
   </data>
   <data name="OriginalCase" xml:space="preserve">
-    <value>原始文字</value>
+    <value>Original text</value>
   </data>
   <data name="Paragraphs" xml:space="preserve">
-    <value>段落：</value>
+    <value>Paragraphs:</value>
   </data>
   <data name="PascalCase" xml:space="preserve">
-    <value>帕斯卡大小寫</value>
+    <value>PascalCase</value>
   </data>
   <data name="Position" xml:space="preserve">
-    <value>位置：</value>
+    <value>Position:</value>
   </data>
   <data name="Selection" xml:space="preserve">
-    <value>選取</value>
+    <value>Selection</value>
   </data>
   <data name="SentenceCase" xml:space="preserve">
-    <value>句子式大小寫</value>
+    <value>Sentence case</value>
   </data>
   <data name="Sentences" xml:space="preserve">
-    <value>句子：</value>
+    <value>Sentences:</value>
   </data>
   <data name="SnakeCase" xml:space="preserve">
-    <value>蛇型大小寫</value>
+    <value>snake_case</value>
   </data>
   <data name="Statistics" xml:space="preserve">
-    <value>統計資料</value>
+    <value>Statistics</value>
   </data>
   <data name="String" xml:space="preserve">
-    <value>字串</value>
+    <value>String</value>
   </data>
   <data name="TitleCase" xml:space="preserve">
-    <value>標題式大小寫</value>
+    <value>Title Case</value>
   </data>
   <data name="TrainCase" xml:space="preserve">
-    <value>火車型大小寫</value>
+    <value>Train-Case</value>
   </data>
   <data name="UpperCase" xml:space="preserve">
-    <value>大寫</value>
+    <value>UPPER CASE</value>
   </data>
   <data name="WordDistribution" xml:space="preserve">
-    <value>單字分布</value>
+    <value>Word distribution</value>
   </data>
   <data name="Words" xml:space="preserve">
-    <value>單字：</value>
+    <value>Words:</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>分析文字並轉換至其他大小寫風格</value>
+    <value>Analyze text and convert it to a different case</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>文字大小寫轉換及檢查工具</value>
+    <value>Text Case Converter and Inspector</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
-    <value>Text String</value>
+    <value>String</value>
   </data>
 </root>
