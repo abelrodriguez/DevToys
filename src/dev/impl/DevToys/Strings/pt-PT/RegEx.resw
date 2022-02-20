@@ -118,70 +118,70 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Ferramenta de teste de expressão regular</value>
+    <value>Regular expression tester tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Configuração</value>
+    <value>Configuration</value>
   </data>
   <data name="CultureInvariant" xml:space="preserve">
-    <value>Invariante da Cultura</value>
+    <value>Culture Invariant</value>
   </data>
   <data name="CultureInvariantDescription" xml:space="preserve">
-    <value>Especifica quais as diferenças culturais na língua são ignoradas.</value>
+    <value>Specifies that cultural differences in language is ignored.</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Testador de Expressões Regulares</value>
+    <value>Regex Tester</value>
   </data>
   <data name="EcmaScript" xml:space="preserve">
-    <value>Script ECMA</value>
+    <value>ECMA Script</value>
   </data>
   <data name="EcmaScriptDescription" xml:space="preserve">
-    <value>Permite um comportamento compatível com o ECMAScript para a expressão. Este valor só pode ser usado em conjunto com as opções Invariante da Cultura, Ignorar Caso e Multilinha.</value>
+    <value>Enables ECMAScript-compliant behavior for the expression. This value can be used only in conjunction with the Culture Invariant, Ignore Case and Multiline options.</value>
   </data>
   <data name="IgnoreCase" xml:space="preserve">
-    <value>Ignorar Caso</value>
+    <value>Ignore Case</value>
   </data>
   <data name="IgnoreCaseDescription" xml:space="preserve">
-    <value>Especifica a correspondência não sensível a maiúsculas e minúsculas.</value>
+    <value>Specifies case-insensitive matching.</value>
   </data>
   <data name="IgnoreWhitespace" xml:space="preserve">
-    <value>Ignorar o espaço dos brancos</value>
+    <value>Ignore Whitespace</value>
   </data>
   <data name="IgnoreWhitespaceDescription" xml:space="preserve">
-    <value>Elimina o espaço branco não escalonado do padrão e permite comentários marcados com #. Contudo, este valor não afeta ou elimina espaço branco em classes de carateres, quantificadores numéricos, ou tokens que marcam o início de elementos individuais de linguagem de expressão regular.</value>
+    <value>Eliminates unescaped white space from the pattern and enables comments marked with #. However, this value does not affect or eliminate white space in character classes, numeric quantifiers, or tokens that mark the beginning of individual regular expression language elements.</value>
   </data>
   <data name="Multiline" xml:space="preserve">
-    <value>Multilinha</value>
+    <value>Multiline</value>
   </data>
   <data name="MultilineDescription" xml:space="preserve">
-    <value>Muda o significado de ^ e $ para que coincidam no início e no fim, respetivamente, de qualquer linha, e não apenas o início e o fim de toda a cadeia.</value>
+    <value>Changes the meaning of ^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string.</value>
   </data>
   <data name="Options" xml:space="preserve">
-    <value>Opções</value>
+    <value>Options</value>
   </data>
   <data name="RegularExpression" xml:space="preserve">
-    <value>Expressão regular</value>
+    <value>Regular expression</value>
   </data>
   <data name="RightToLeft" xml:space="preserve">
-    <value>Da direita para a esquerda</value>
+    <value>Right To Left</value>
   </data>
   <data name="RightToLeftDescription" xml:space="preserve">
-    <value>Especifica que a pesquisa será da direita para a esquerda em vez da esquerda para a direita.</value>
+    <value>Specifies that the search will be from right to left instead of from left to right.</value>
   </data>
   <data name="Singleline" xml:space="preserve">
-    <value>Linha única</value>
+    <value>Singleline</value>
   </data>
   <data name="SinglelineDescription" xml:space="preserve">
-    <value>Muda o significado do ponto (.) para que corresponda a todos os caracteres (em vez de todos os caracteres exceto \n).</value>
+    <value>Changes the meaning of the dot (.) so it matches every character (instead of every character except \n).</value>
   </data>
   <data name="Text" xml:space="preserve">
-    <value>Texto</value>
+    <value>Text</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Validar e testar expressões regulares</value>
+    <value>Validate and test regular expressions</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Testador de Expressões Regulares</value>
+    <value>Regex Tester</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value>Regular expression</value>
