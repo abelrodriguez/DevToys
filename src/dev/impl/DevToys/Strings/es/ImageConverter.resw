@@ -130,10 +130,10 @@
     <value>Delete</value>
   </data>
   <data name="DeleteAll" xml:space="preserve">
-    <value>Eliminar todo</value>
+    <value>Delete all</value>
   </data>
   <data name="DetailsTitle" xml:space="preserve">
-    <value>Detalles</value>
+    <value>Details</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
     <value>Image Converter</value>
