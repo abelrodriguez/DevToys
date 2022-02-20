@@ -118,43 +118,43 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>HTML Kodierungs- und Dekodierungswerkzeug</value>
+    <value>HTML Encoder and Decoder tool</value>
   </data>
   <data name="ConfigurationTitle" xml:space="preserve">
-    <value>Konfiguration</value>
+    <value>Configuration</value>
   </data>
   <data name="ConversionDecode" xml:space="preserve">
-    <value>Dekodieren</value>
+    <value>Decode</value>
   </data>
   <data name="ConversionDescription" xml:space="preserve">
-    <value>Wähle einen Konvertierungsmodus</value>
+    <value>Select which conversion mode you want to use</value>
   </data>
   <data name="ConversionEncode" xml:space="preserve">
-    <value>Kodieren</value>
+    <value>Encode</value>
   </data>
   <data name="ConversionTitle" xml:space="preserve">
-    <value>Konvertierung</value>
+    <value>Conversion</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
     <value>HTML</value>
   </data>
   <data name="EncodingDescription" xml:space="preserve">
-    <value>Wähle aus welche Kodierung verwendet werden soll</value>
+    <value>Select which encoding do you want to use</value>
   </data>
   <data name="EncodingTitle" xml:space="preserve">
-    <value>Kodierung</value>
+    <value>Encoding</value>
   </data>
   <data name="InputTitle" xml:space="preserve">
-    <value>Eingabe</value>
+    <value>Input</value>
   </data>
   <data name="OutputTitle" xml:space="preserve">
-    <value>Ausgabe</value>
+    <value>Output</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Kodiere und Dekodiere ausgewählte Zeichen in Ihre entsprechenden HTML Entitäten</value>
+    <value>Encode or decode all the applicable characters to their corresponding HTML entities</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>HTML Kodierer / Dekodierer</value>
+    <value>HTML Encoder / Decoder</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
