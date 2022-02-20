@@ -118,43 +118,43 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>로렌 입숨 생성 도구</value>
+    <value>Lorem Ipsum Generator tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>설정</value>
+    <value>Configuration</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>로렌 입숨 방식의 무의미한 문구를 생성합니다.</value>
+    <value>Generate Lorem Ipsum placeholder text</value>
   </data>
   <data name="LengthDescription" xml:space="preserve">
-    <value>단어, 문장 및 문단 개수를 선택 후 생성합니다.</value>
+    <value>Number of words, sentences or paragraphs to generate</value>
   </data>
   <data name="LengthTitle" xml:space="preserve">
-    <value>길이</value>
+    <value>Length</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>로렌 입숨</value>
+    <value>Lorem Ipsum</value>
   </data>
   <data name="Output" xml:space="preserve">
-    <value>출력 내용</value>
+    <value>Output</value>
   </data>
   <data name="ParagraphsType" xml:space="preserve">
-    <value>문단</value>
+    <value>Paragraphs</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>로렌 입숨 생성기</value>
+    <value>Lorem Ipsum Generator</value>
   </data>
   <data name="SentencesType" xml:space="preserve">
-    <value>문장</value>
+    <value>Sentences</value>
   </data>
   <data name="TypeDescription" xml:space="preserve">
-    <value>로렌 입숨 내용을 생성할 단어, 문장 및 문단 개수를 선택 후 생성합니다.</value>
+    <value>Generate words, sentences or paragraphs of Lorem Ipsum</value>
   </data>
   <data name="TypeTitle" xml:space="preserve">
-    <value>단위</value>
+    <value>Type</value>
   </data>
   <data name="WordsType" xml:space="preserve">
-    <value>단어</value>
+    <value>Words</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
