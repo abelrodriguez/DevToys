@@ -118,43 +118,43 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Lorem Ipsum Generatorwerkzeug</value>
+    <value>Lorem Ipsum Generator tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Konfiguration</value>
+    <value>Configuration</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Generate Lorem Ipsum Platzhaltertext</value>
+    <value>Generate Lorem Ipsum placeholder text</value>
   </data>
   <data name="LengthDescription" xml:space="preserve">
-    <value>Anzahl Wörter, Sätze oder Absätze die generiert werden sollen</value>
+    <value>Number of words, sentences or paragraphs to generate</value>
   </data>
   <data name="LengthTitle" xml:space="preserve">
-    <value>Anzahl</value>
+    <value>Length</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
     <value>Lorem Ipsum</value>
   </data>
   <data name="Output" xml:space="preserve">
-    <value>Ausgabe</value>
+    <value>Output</value>
   </data>
   <data name="ParagraphsType" xml:space="preserve">
-    <value>Absätze</value>
+    <value>Paragraphs</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
     <value>Lorem Ipsum Generator</value>
   </data>
   <data name="SentencesType" xml:space="preserve">
-    <value>Sätze</value>
+    <value>Sentences</value>
   </data>
   <data name="TypeDescription" xml:space="preserve">
-    <value>Generiere Wörter, Sätze oder Absätze mit Lorem Ipsum Text</value>
+    <value>Generate words, sentences or paragraphs of Lorem Ipsum</value>
   </data>
   <data name="TypeTitle" xml:space="preserve">
-    <value>Typ</value>
+    <value>Type</value>
   </data>
   <data name="WordsType" xml:space="preserve">
-    <value>Wörter</value>
+    <value>Words</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
