@@ -118,70 +118,70 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Alat penguji ekspresi reguler</value>
+    <value>Regular expression tester tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Konfigurasi</value>
+    <value>Configuration</value>
   </data>
   <data name="CultureInvariant" xml:space="preserve">
-    <value>Budaya Invarian</value>
+    <value>Culture Invariant</value>
   </data>
   <data name="CultureInvariantDescription" xml:space="preserve">
-    <value>Menentukan bahwa perbedaan budaya dalam bahasa diabaikan.</value>
+    <value>Specifies that cultural differences in language is ignored.</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Penguji Regex</value>
+    <value>Regex Tester</value>
   </data>
   <data name="EcmaScript" xml:space="preserve">
-    <value>Script ECMA</value>
+    <value>ECMA Script</value>
   </data>
   <data name="EcmaScriptDescription" xml:space="preserve">
-    <value>Mengaktifkan perilaku yang sesuai dengan ECMAScript untuk ekspresi. Nilai ini hanya dapat digunakan bersama dengan opsi Invarian Budaya, Abaikan Kasus, dan Multibaris.</value>
+    <value>Enables ECMAScript-compliant behavior for the expression. This value can be used only in conjunction with the Culture Invariant, Ignore Case and Multiline options.</value>
   </data>
   <data name="IgnoreCase" xml:space="preserve">
-    <value>Abaikan Kasus</value>
+    <value>Ignore Case</value>
   </data>
   <data name="IgnoreCaseDescription" xml:space="preserve">
-    <value>Menentukan pencocokan peka huruf besar/kecil.</value>
+    <value>Specifies case-insensitive matching.</value>
   </data>
   <data name="IgnoreWhitespace" xml:space="preserve">
-    <value>Abaikan Spasi Putih</value>
+    <value>Ignore Whitespace</value>
   </data>
   <data name="IgnoreWhitespaceDescription" xml:space="preserve">
-    <value>Menghilangkan ruang putih yang tidak terhapus dari pola dan mengaktifkan komentar yang ditandai dengan #. Namun, nilai ini tidak memengaruhi atau menghilangkan spasi putih di kelas karakter, kuantifier numerik, atau token yang menandai awal elemen bahasa ekspresi reguler individu.</value>
+    <value>Eliminates unescaped white space from the pattern and enables comments marked with #. However, this value does not affect or eliminate white space in character classes, numeric quantifiers, or tokens that mark the beginning of individual regular expression language elements.</value>
   </data>
   <data name="Multiline" xml:space="preserve">
-    <value>Banyak baris</value>
+    <value>Multiline</value>
   </data>
   <data name="MultilineDescription" xml:space="preserve">
-    <value>Mengubah arti ^ dan $ sehingga keduanya cocok di awal dan akhir, masing-masing, dari baris mana pun, dan bukan hanya awal dan akhir seluruh string.</value>
+    <value>Changes the meaning of ^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string.</value>
   </data>
   <data name="Options" xml:space="preserve">
-    <value>Opsi</value>
+    <value>Options</value>
   </data>
   <data name="RegularExpression" xml:space="preserve">
-    <value>Ekspresi reguler</value>
+    <value>Regular expression</value>
   </data>
   <data name="RightToLeft" xml:space="preserve">
-    <value>Kanan ke Kiri</value>
+    <value>Right To Left</value>
   </data>
   <data name="RightToLeftDescription" xml:space="preserve">
-    <value>Menentukan bahwa pencarian akan dari kanan ke kiri, bukan dari kiri ke kanan.</value>
+    <value>Specifies that the search will be from right to left instead of from left to right.</value>
   </data>
   <data name="Singleline" xml:space="preserve">
-    <value>Garis Tunggal</value>
+    <value>Singleline</value>
   </data>
   <data name="SinglelineDescription" xml:space="preserve">
-    <value>Mengubah arti titik (.) sehingga cocok dengan setiap karakter (bukan setiap karakter kecuali \n).</value>
+    <value>Changes the meaning of the dot (.) so it matches every character (instead of every character except \n).</value>
   </data>
   <data name="Text" xml:space="preserve">
-    <value>Teks</value>
+    <value>Text</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Validasi dan uji ekspresi reguler</value>
+    <value>Validate and test regular expressions</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Penguji Regex</value>
+    <value>Regex Tester</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value>Regular expression</value>
