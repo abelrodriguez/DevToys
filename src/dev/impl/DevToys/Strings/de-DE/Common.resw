@@ -121,16 +121,16 @@
     <value>Bytes</value>
   </data>
   <data name="Clear" xml:space="preserve">
-    <value>Leeren</value>
+    <value>Clear</value>
   </data>
   <data name="Copy" xml:space="preserve">
-    <value>Kopieren</value>
+    <value>Copy</value>
   </data>
   <data name="Cut" xml:space="preserve">
-    <value>Ausschneiden</value>
+    <value>Cut</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>Löschen</value>
+    <value>Delete</value>
   </data>
   <data name="FileSelectorBrowseFiles" xml:space="preserve">
     <value>Browse files</value>
@@ -172,33 +172,33 @@
     <value>OK</value>
   </data>
   <data name="OpenFile" xml:space="preserve">
-    <value>Öffne eine Datei</value>
+    <value>Load a file</value>
   </data>
   <data name="Paste" xml:space="preserve">
-    <value>Einfügen</value>
+    <value>Paste</value>
   </data>
   <data name="Redo" xml:space="preserve">
-    <value>Rückgängig</value>
+    <value>Redo</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
-    <value>Alles auswählen</value>
+    <value>Select all</value>
   </data>
   <data name="Terabytes" xml:space="preserve">
     <value>TB</value>
   </data>
   <data name="ToggleSwitchOff" xml:space="preserve">
-    <value>Aus</value>
+    <value>Off</value>
   </data>
   <data name="ToggleSwitchOn" xml:space="preserve">
-    <value>An</value>
+    <value>On</value>
   </data>
   <data name="UnableOpenFile" xml:space="preserve">
-    <value>Nicht möglich diese Datei zu öffnen</value>
+    <value>Unable to open this file</value>
   </data>
   <data name="UnableOpenFileDescription" xml:space="preserve">
-    <value>Nicht möglich die Datei '{0}' zu laden. Für mehr Details, schauen Sie in den Logs.</value>
+    <value>Unable to load the file '{0}'. For more details, please check the log.</value>
   </data>
   <data name="Undo" xml:space="preserve">
-    <value>Rückgängig</value>
+    <value>Undo</value>
   </data>
 </root>
