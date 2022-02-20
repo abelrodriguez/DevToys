@@ -118,53 +118,53 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>圖片轉檔工具</value>
+    <value>Image Converter tool</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>取消</value>
+    <value>Cancel</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>設定</value>
+    <value>Configuration</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>刪除</value>
+    <value>Delete</value>
   </data>
   <data name="DeleteAll" xml:space="preserve">
-    <value>全部刪除</value>
+    <value>Delete all</value>
   </data>
   <data name="DetailsTitle" xml:space="preserve">
-    <value>詳情</value>
+    <value>Details</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>圖片轉檔工具</value>
+    <value>Image Converter</value>
   </data>
   <data name="FileSizeDisplay" xml:space="preserve">
     <value>{0:0.##} {1}</value>
     <comment>{0} is a decimal number representing a file size. {1} is a unit, like Bytes, KB, MB, GB, TB</comment>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>確定</value>
+    <value>OK</value>
   </data>
   <data name="SaveAll" xml:space="preserve">
-    <value>全部儲存</value>
+    <value>Save all</value>
   </data>
   <data name="SaveAs" xml:space="preserve">
-    <value>另存為</value>
+    <value>Save as</value>
   </data>
   <data name="SeeErrorMessage" xml:space="preserve">
-    <value>查看詳情</value>
+    <value>See details</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>不失真的圖片轉檔工具</value>
+    <value>Lossless image converter</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>圖片轉檔工具</value>
+    <value>Image Converter</value>
   </data>
   <data name="ConversionTitle" xml:space="preserve">
-    <value>轉換</value>
+    <value>Conversion</value>
   </data>
   <data name="ConvertedFormatDescription" xml:space="preserve">
-    <value>選擇要轉換成的檔案格式</value>
+    <value>Select the converted file format</value>
   </data>
   <data name="JPEG" xml:space="preserve">
     <value>JPEG</value>
@@ -188,7 +188,7 @@
     <value>TIFF</value>
   </data>
   <data name="ErrorMessage" xml:space="preserve">
-    <value>發生意外錯誤，轉換可能尚未完成。</value>
+    <value>An unexpected error has occurred, the conversion may not have been performed.</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value>BMP GIF HEIF JPG XR PNG TIFF</value>
