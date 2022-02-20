@@ -118,37 +118,37 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Narzędzie Manipulacji Tekstem</value>
+    <value>String utilities tool</value>
   </data>
   <data name="AlternatingCase" xml:space="preserve">
     <value>aLtErNaTiNg cAsE</value>
   </data>
   <data name="Bytes" xml:space="preserve">
-    <value>Bajty:</value>
+    <value>Bytes:</value>
   </data>
   <data name="CamelCase" xml:space="preserve">
     <value>camelCase</value>
   </data>
   <data name="CharacterDistribution" xml:space="preserve">
-    <value>Rozkład znaków</value>
+    <value>Character distribution</value>
   </data>
   <data name="Characters" xml:space="preserve">
-    <value>Znaki:</value>
+    <value>Characters:</value>
   </data>
   <data name="CobolCase" xml:space="preserve">
     <value>COBOL-CASE</value>
   </data>
   <data name="Column" xml:space="preserve">
-    <value>Kolumna:</value>
+    <value>Column:</value>
   </data>
   <data name="ConstantCase" xml:space="preserve">
     <value>CONSTANT_CASE</value>
   </data>
   <data name="Convert" xml:space="preserve">
-    <value>Konwertuj</value>
+    <value>Convert</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Manipulator Tekstu</value>
+    <value>Inspector &amp; Case Converter</value>
   </data>
   <data name="InverseCase" xml:space="preserve">
     <value>InVeRsE CaSe</value>
@@ -157,43 +157,43 @@
     <value>kebab-case</value>
   </data>
   <data name="Line" xml:space="preserve">
-    <value>Linia:</value>
+    <value>Line:</value>
   </data>
   <data name="Lines" xml:space="preserve">
-    <value>Linie:</value>
+    <value>Lines:</value>
   </data>
   <data name="LowerCase" xml:space="preserve">
     <value>lower case</value>
   </data>
   <data name="OriginalCase" xml:space="preserve">
-    <value>Oryginalny tekst:</value>
+    <value>Original text</value>
   </data>
   <data name="Paragraphs" xml:space="preserve">
-    <value>Paragrafy:</value>
+    <value>Paragraphs:</value>
   </data>
   <data name="PascalCase" xml:space="preserve">
     <value>PascalCase</value>
   </data>
   <data name="Position" xml:space="preserve">
-    <value>Pozycja:</value>
+    <value>Position:</value>
   </data>
   <data name="Selection" xml:space="preserve">
-    <value>Zaznaczenie</value>
+    <value>Selection</value>
   </data>
   <data name="SentenceCase" xml:space="preserve">
     <value>Sentence case</value>
   </data>
   <data name="Sentences" xml:space="preserve">
-    <value>Zdania:</value>
+    <value>Sentences:</value>
   </data>
   <data name="SnakeCase" xml:space="preserve">
     <value>snake_case</value>
   </data>
   <data name="Statistics" xml:space="preserve">
-    <value>Statystyki</value>
+    <value>Statistics</value>
   </data>
   <data name="String" xml:space="preserve">
-    <value>Ciąg znaków</value>
+    <value>String</value>
   </data>
   <data name="TitleCase" xml:space="preserve">
     <value>Title Case</value>
@@ -205,18 +205,18 @@
     <value>UPPER CASE</value>
   </data>
   <data name="WordDistribution" xml:space="preserve">
-    <value>Rozkład słów</value>
+    <value>Word distribution</value>
   </data>
   <data name="Words" xml:space="preserve">
-    <value>Słowa:</value>
+    <value>Words:</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Analizuj tekst i konwertuj go do innej wielkości liter</value>
+    <value>Analyze text and convert it to a different case</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Inspektor i manipulator wielkości liter tekstu</value>
+    <value>Text Case Converter and Inspector</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
-    <value>Text String</value>
+    <value>String</value>
   </data>
 </root>
