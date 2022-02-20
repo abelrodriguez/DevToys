@@ -118,47 +118,47 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="EnterCompactOverlayTooltip" xml:space="preserve">
-    <value>Oben bleiben (Ctrl+Up)</value>
+    <value>Keep on top (Ctrl+Up)</value>
   </data>
   <data name="ExitCompactOverlayTooltip" xml:space="preserve">
-    <value>Zurück zur Vollansicht (Ctrl+Down)</value>
+    <value>Back to full view (Ctrl+Down)</value>
   </data>
   <data name="NotificationRateAppActionableActionText" xml:space="preserve">
-    <value>Bewerte uns...</value>
+    <value>rate us now...</value>
   </data>
   <data name="NotificationRateAppMessage" xml:space="preserve">
-    <value>Gefällt dir DevToys? Hinterlasse uns doch eine Bewertung!</value>
+    <value>Enjoying DevToys? Please consider rating us!</value>
   </data>
   <data name="NotificationRateAppTitle" xml:space="preserve">
     <value>Um... hi! 😅</value>
   </data>
   <data name="NotificationReleaseNoteActionableActionText" xml:space="preserve">
-    <value>Mehr anzeigen...</value>
+    <value>read more...</value>
   </data>
   <data name="NotificationReleaseNoteTitle" xml:space="preserve">
-    <value>Es gibt ein Update! Was ist neu in {0}? 🚀</value>
+    <value>We just updated! What's new in {0}? 🚀</value>
     <comment>{0} is the current app version</comment>
   </data>
   <data name="NotificationUpdateAvailableActionableActionText" xml:space="preserve">
-    <value>Aktualisiere jetzt...</value>
+    <value>update now...</value>
   </data>
   <data name="NotificationUpdateAvailableTitle" xml:space="preserve">
-    <value>Ein Update ist verfügbar! 🚀</value>
+    <value>An update is available! 🚀</value>
   </data>
   <data name="OpenInNewWindow" xml:space="preserve">
-    <value>In neuem Fenster öffnen</value>
+    <value>Open in a new window</value>
   </data>
   <data name="PinToolToStart" xml:space="preserve">
-    <value>Werkzeug an Start pinnen</value>
+    <value>Pin tool to Start</value>
   </data>
   <data name="PinToolToStartProblem" xml:space="preserve">
-    <value>Kann das Werkzeug nicht anpinnen. Mehr Details können den Logs entnommen werden.</value>
+    <value>Unable to pin the tool to start. For more details, please check the log.</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Tippe um nach Werkzeugen zu suchen...</value>
+    <value>Type to search for tools...</value>
   </data>
   <data name="SearchNoResultsFound" xml:space="preserve">
-    <value>Kein Ergebnis</value>
+    <value>No results found</value>
   </data>
   <data name="WindowTitle" xml:space="preserve">
     <value>DevToys</value>
