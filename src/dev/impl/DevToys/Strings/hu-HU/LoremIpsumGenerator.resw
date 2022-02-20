@@ -118,43 +118,43 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Lorem Ipsum Generáló eszköz</value>
+    <value>Lorem Ipsum Generator tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Konfiguráció</value>
+    <value>Configuration</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Lorem Ipsum helykitöltő generálása</value>
+    <value>Generate Lorem Ipsum placeholder text</value>
   </data>
   <data name="LengthDescription" xml:space="preserve">
-    <value>Generálandó szavak, mondatok vagy paragrafusok száma</value>
+    <value>Number of words, sentences or paragraphs to generate</value>
   </data>
   <data name="LengthTitle" xml:space="preserve">
-    <value>Hossz</value>
+    <value>Length</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
     <value>Lorem Ipsum</value>
   </data>
   <data name="Output" xml:space="preserve">
-    <value>Kimenet</value>
+    <value>Output</value>
   </data>
   <data name="ParagraphsType" xml:space="preserve">
-    <value>Paragrafusok</value>
+    <value>Paragraphs</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Lorem Ipsum Generáló</value>
+    <value>Lorem Ipsum Generator</value>
   </data>
   <data name="SentencesType" xml:space="preserve">
-    <value>Mondatok</value>
+    <value>Sentences</value>
   </data>
   <data name="TypeDescription" xml:space="preserve">
-    <value>Lorem Ipsum szavak, mondatok vagy paragrafusok generálása</value>
+    <value>Generate words, sentences or paragraphs of Lorem Ipsum</value>
   </data>
   <data name="TypeTitle" xml:space="preserve">
-    <value>Típus</value>
+    <value>Type</value>
   </data>
   <data name="WordsType" xml:space="preserve">
-    <value>Szavak</value>
+    <value>Words</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
