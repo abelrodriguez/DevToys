@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Bytes" xml:space="preserve">
-    <value>Байт</value>
+    <value>Bytes</value>
   </data>
   <data name="Clear" xml:space="preserve">
-    <value>Очистить</value>
+    <value>Clear</value>
   </data>
   <data name="Copy" xml:space="preserve">
-    <value>Копировать</value>
+    <value>Copy</value>
   </data>
   <data name="Cut" xml:space="preserve">
-    <value>Вырезать</value>
+    <value>Cut</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>Удалить</value>
+    <value>Delete</value>
   </data>
   <data name="FileSelectorBrowseFiles" xml:space="preserve">
     <value>Browse files</value>
@@ -160,45 +160,45 @@
     <value>or</value>
   </data>
   <data name="Gigabytes" xml:space="preserve">
-    <value>ГБ</value>
+    <value>GB</value>
   </data>
   <data name="Kilobytes" xml:space="preserve">
-    <value>КБ</value>
+    <value>KB</value>
   </data>
   <data name="Megabytes" xml:space="preserve">
-    <value>МБ</value>
+    <value>MB</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>ОК</value>
+    <value>OK</value>
   </data>
   <data name="OpenFile" xml:space="preserve">
-    <value>Выбрать файл</value>
+    <value>Load a file</value>
   </data>
   <data name="Paste" xml:space="preserve">
-    <value>Вставить</value>
+    <value>Paste</value>
   </data>
   <data name="Redo" xml:space="preserve">
-    <value>Вернуть</value>
+    <value>Redo</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
-    <value>Выбрать все</value>
+    <value>Select all</value>
   </data>
   <data name="Terabytes" xml:space="preserve">
-    <value>ТБ</value>
+    <value>TB</value>
   </data>
   <data name="ToggleSwitchOff" xml:space="preserve">
-    <value>Откл.</value>
+    <value>Off</value>
   </data>
   <data name="ToggleSwitchOn" xml:space="preserve">
-    <value>Вкл.</value>
+    <value>On</value>
   </data>
   <data name="UnableOpenFile" xml:space="preserve">
-    <value>Невозможно открыть файл</value>
+    <value>Unable to open this file</value>
   </data>
   <data name="UnableOpenFileDescription" xml:space="preserve">
-    <value>Невозможно открыть файл '{0}'. Для получения подробной информации проверьте логи.</value>
+    <value>Unable to load the file '{0}'. For more details, please check the log.</value>
   </data>
   <data name="Undo" xml:space="preserve">
-    <value>Отменить</value>
+    <value>Undo</value>
   </data>
 </root>
