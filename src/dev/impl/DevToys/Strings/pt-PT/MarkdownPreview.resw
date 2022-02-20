@@ -118,37 +118,37 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Ferramenta de pré-visualização Markdown</value>
+    <value>Markdown preview tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>Configuração</value>
+    <value>Configuration</value>
   </data>
   <data name="Dark" xml:space="preserve">
-    <value>Escuro</value>
+    <value>Dark</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Pré-visualização Markdown</value>
+    <value>Markdown Preview</value>
   </data>
   <data name="Input" xml:space="preserve">
     <value>Markdown</value>
   </data>
   <data name="Light" xml:space="preserve">
-    <value>Claro</value>
+    <value>Light</value>
   </data>
   <data name="Output" xml:space="preserve">
-    <value>Pré-visualização</value>
+    <value>Preview</value>
   </data>
   <data name="Theme" xml:space="preserve">
-    <value>Tema</value>
+    <value>Theme</value>
   </data>
   <data name="ThemeDescription" xml:space="preserve">
-    <value>Selecione o tema a utilizar para pré-visualizar o Markdown</value>
+    <value>Select which theme to use to preview the Markdown</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Pré-visualizar um documento Markdown com renderização do tipo GitHub</value>
+    <value>Preview a Markdown document with a GitHub-like render</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Pré-visualização Markdown</value>
+    <value>Markdown Preview</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value>MD</value>
