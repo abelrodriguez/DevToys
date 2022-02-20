@@ -118,105 +118,105 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Инструмент конвертирования регистров</value>
+    <value>String utilities tool</value>
   </data>
   <data name="AlternatingCase" xml:space="preserve">
-    <value>чЕрЕдОвАнИе рЕгИсТрОв</value>
+    <value>aLtErNaTiNg cAsE</value>
   </data>
   <data name="Bytes" xml:space="preserve">
-    <value>Байт:</value>
+    <value>Bytes:</value>
   </data>
   <data name="CamelCase" xml:space="preserve">
-    <value>верблюжийРегистр</value>
+    <value>camelCase</value>
   </data>
   <data name="CharacterDistribution" xml:space="preserve">
-    <value>Распределение символов</value>
+    <value>Character distribution</value>
   </data>
   <data name="Characters" xml:space="preserve">
-    <value>Символы:</value>
+    <value>Characters:</value>
   </data>
   <data name="CobolCase" xml:space="preserve">
-    <value>КОБОЛ-РЕГИСТР</value>
+    <value>COBOL-CASE</value>
   </data>
   <data name="Column" xml:space="preserve">
-    <value>Столбец:</value>
+    <value>Column:</value>
   </data>
   <data name="ConstantCase" xml:space="preserve">
-    <value>КОНСТАНТ_РЕГИСТР</value>
+    <value>CONSTANT_CASE</value>
   </data>
   <data name="Convert" xml:space="preserve">
-    <value>Преобразование</value>
+    <value>Convert</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Конвертирование регистров</value>
+    <value>Inspector &amp; Case Converter</value>
   </data>
   <data name="InverseCase" xml:space="preserve">
-    <value>оБрАтНоЕ ЧеРеДоВаНиЕ РеГиСтРоВ</value>
+    <value>InVeRsE CaSe</value>
   </data>
   <data name="KebabCase" xml:space="preserve">
-    <value>шампур-регистр</value>
+    <value>kebab-case</value>
   </data>
   <data name="Line" xml:space="preserve">
-    <value>Строка:</value>
+    <value>Line:</value>
   </data>
   <data name="Lines" xml:space="preserve">
-    <value>Строки:</value>
+    <value>Lines:</value>
   </data>
   <data name="LowerCase" xml:space="preserve">
-    <value>нижний регистр</value>
+    <value>lower case</value>
   </data>
   <data name="OriginalCase" xml:space="preserve">
-    <value>Первоначальный текст</value>
+    <value>Original text</value>
   </data>
   <data name="Paragraphs" xml:space="preserve">
-    <value>Абзацы:</value>
+    <value>Paragraphs:</value>
   </data>
   <data name="PascalCase" xml:space="preserve">
-    <value>ПаскальРегистр</value>
+    <value>PascalCase</value>
   </data>
   <data name="Position" xml:space="preserve">
-    <value>Позиция:</value>
+    <value>Position:</value>
   </data>
   <data name="Selection" xml:space="preserve">
-    <value>Выделение</value>
+    <value>Selection</value>
   </data>
   <data name="SentenceCase" xml:space="preserve">
-    <value>Заглавные предложения</value>
+    <value>Sentence case</value>
   </data>
   <data name="Sentences" xml:space="preserve">
-    <value>Предложения:</value>
+    <value>Sentences:</value>
   </data>
   <data name="SnakeCase" xml:space="preserve">
-    <value>змеиный_регистр</value>
+    <value>snake_case</value>
   </data>
   <data name="Statistics" xml:space="preserve">
-    <value>Статистика</value>
+    <value>Statistics</value>
   </data>
   <data name="String" xml:space="preserve">
-    <value>Текст</value>
+    <value>String</value>
   </data>
   <data name="TitleCase" xml:space="preserve">
-    <value>Заглавные Слова</value>
+    <value>Title Case</value>
   </data>
   <data name="TrainCase" xml:space="preserve">
-    <value>Сплошные-Слова</value>
+    <value>Train-Case</value>
   </data>
   <data name="UpperCase" xml:space="preserve">
-    <value>ВЕРХНИЙ РЕГИСТР</value>
+    <value>UPPER CASE</value>
   </data>
   <data name="WordDistribution" xml:space="preserve">
-    <value>Распределение слов</value>
+    <value>Word distribution</value>
   </data>
   <data name="Words" xml:space="preserve">
-    <value>Слова:</value>
+    <value>Words:</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Анализирование текста и конвертирование регистров</value>
+    <value>Analyze text and convert it to a different case</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Конвертирование регистров</value>
+    <value>Text Case Converter and Inspector</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
-    <value>Text String</value>
+    <value>String</value>
   </data>
 </root>
