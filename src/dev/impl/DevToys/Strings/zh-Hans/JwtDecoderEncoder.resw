@@ -118,49 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>JWT 解码工具</value>
+    <value>JWT Decoder tool</value>
   </data>
   <data name="Configuration" xml:space="preserve">
-    <value>配置</value>
+    <value>Configuration</value>
   </data>
   <data name="ConversionDescription" xml:space="preserve">
-    <value>选择您想使用的转换模式</value>
+    <value>Select which action you want to use</value>
   </data>
   <data name="ConversionTitle" xml:space="preserve">
-    <value>转换</value>
+    <value>Action</value>
   </data>
   <data name="Decode" xml:space="preserve">
-    <value>解码</value>
+    <value>Decode</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>JWT</value>
+    <value>JWT Decoder</value>
   </data>
   <data name="Encode" xml:space="preserve">
-    <value>编码</value>
+    <value>Encode</value>
   </data>
   <data name="EncodingDescription" xml:space="preserve">
-    <value>选择要使用的编码算法</value>
+    <value>Select which encoding algorithm you want to use</value>
   </data>
   <data name="EncodingTitle" xml:space="preserve">
-    <value>编码</value>
+    <value>Encoding</value>
   </data>
   <data name="HeaderLabel" xml:space="preserve">
-    <value>头部（Header）</value>
+    <value>Header</value>
   </data>
   <data name="JwtTokenLabel" xml:space="preserve">
-    <value>JWT 令牌（Token）</value>
+    <value>Jwt Token</value>
   </data>
   <data name="PayloadLabel" xml:space="preserve">
-    <value>负载（Payload）</value>
+    <value>Payload</value>
   </data>
   <data name="SecurityLabel" xml:space="preserve">
-    <value>安全</value>
+    <value>Security</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>解码 JWT 报头、有效数据和签名</value>
+    <value>Decode a JWT header, payload and signature</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>JWT 解码工具</value>
+    <value>JWT Decoder</value>
   </data>
   <data name="SearchKeywords" xml:space="preserve">
     <value></value>
